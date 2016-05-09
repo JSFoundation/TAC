@@ -1,6 +1,8 @@
-## Moderation policy
+## Moderation Policy
 
-If you are not a member of the Node.js GitHub Organization and wish to submit a moderation request, please see [Requesting Moderation](#requesting-moderation)
+If you are not a member of the jQuery Foundation owned GitHub Organization in
+question and wish to submit a moderation request, please see
+[Requesting Moderation](#requesting-moderation)
 
 * [Applicability](#applicability)
 * [Terms](#terms)
@@ -10,129 +12,197 @@ If you are not a member of the Node.js GitHub Organization and wish to submit a 
 * [Guidelines and Requirements](#guidelines-and-requirements)
  * [Collaborator Posts](#collaborator-posts)
  * [Non-Collaborator Posts](#non-collaborator-posts)
-* [Escalation to the TSC](#escalation-to-the-tsc)
-* [Privacy of the nodejs/moderation Repository](#privacy-of-the-nodejsmoderation-repository)
-* [TSC Delegation of Authority to a "Moderation Working Group"](tsc-delegation-of-authority-to-a-moderation-working-group)
+* [Escalation to the CoC Committee](#escalation-to-the-coc-committee)
 * [Modifications to this Policy](#modifications-to-this-policy)
 
 ### Applicability
 
-By default, this policy applies to all repositories under the Node.js GitHub Organization and all Node.js Working Groups.
+By default, the [jQuery Foundation Code of Conduct][] defines the moderation
+process of reported Code of Conduct violations. This policy applies to all
+repositories under the ownership of the jQuery Foundation and all jQuery
+Foundation Working Groups.
 
-Individual Working Groups and Top Level Projects chartered by the TSC may adopt an alternative Moderation Policy for any repository under their stewardship so long as:
-* The Moderation Policy is openly documented as part of the Working Group or Project Charter and;
-* Includes provisions for clearly and openly documenting Moderation actions taken.
+Working Groups and TSCs chartered by the CB may adopt an alternative Moderation
+Policy for any repository under their stewardship so long as:
+* The Moderation Policy is openly documented as part of the Working Group or
+TSC Charter and;
+* It includes provisions for clearly and openly documenting Moderation actions
+taken.
 
-If a particular repository can be considered to fall under the stewardship of multiple Working Groups (or Top Level Projects) that have adopted different Moderation Policies, they can choose to either:
-* Decide between themselves which Moderation Policy will be in effect for the repository in question, or
-* Ask the TSC to determine which Moderation Policy should apply.
+If a particular repository can be considered to fall under the stewardship of
+multiple Working Groups (or TSCs) that have adopted different Moderation
+Policies, they can choose to either:
+* Decide between themselves which Moderation Policy will be in effect for the
+repository in question, or
+* Ask the CB to determine which Moderation Policy should apply.
 
-Any alternative Moderation Policy used for a given repository must be included in the root directory of the repository using the `Moderation-Policy.md` filename. If a repository does not contain a `Moderation-Policy.md` file, then this default policy applies.
+Any alternative Moderation Policy used for a given repository must be included
+in the root directory of the repository using the `Moderation-Policy.md`
+filename. If a repository does not contain a `Moderation-Policy.md` file,
+then this default policy applies.
 
 ### Terms
 
-* *Collaborator* refers to any individual with configured access permissions to any Node.js GitHub organization repository. See [GitHub's access permissions documentation](https://help.github.com/articles/what-are-the-different-access-permissions/) for more information.
-* *TSC* refers to the [Node.js Technical Steering Committee](https://github.com/nodejs/node#tsc-technical-steering-committee).
-* *Post* refers to the content and titles of any issue, pull request, comment or wiki page.
-* *Moderate* refers to the act of modifying the content and title of, or deleting, any Post for the purpose of correcting or addressing Code of Conduct violations.
-* *Ban* refers to the act of blocking an individual GitHub account from any further participation in the Node.js GitHub Organization.
+* *Collaborator* refers to any individual with configured access permissions to
+any jQuery Foundation owned GitHub organization or repository. See
+[GitHub's access permissions documentation][] for more information.
+* *CB* refers to the [jQuery Foundation Collaboration Board][].
+* *Post* refers to the content and titles of any issue, pull request, comment or
+wiki page.
+* *Moderate* refers to the act of modifying the content and title of, or
+deleting, any Post for the purpose of correcting or addressing Code of Conduct
+violations.
+* *Ban* refers to the act of blocking an individual GitHub account from any
+further participation in the jQuery Foundation owned GitHub organization or
+repository.
 * *Requester* refers to an individual requesting Moderation on a Post.
 
 ### Grounds for Moderation
 
-Any Post considered to be in violation of the [Node.js Code of Conduct](https://GitHub.com/nodejs/node/blob/master/CODE_OF_CONDUCT.md) is subject to Moderation.
+Any Post considered to be in violation of the
+[jQuery Foundation Code of Conduct][] is subject to Moderation.
 
-The TSC is solely responsible for deciding what constitutes inappropriate behavior that may be subject to Moderation (see: [Escalation to the TSC](#escalation-to-the-tsc)).
+The [Code of Conduct Committee][] is solely responsible for deciding what
+constitutes inappropriate behavior that may be subject to Moderation (see:
+[Escalation to the CoC Committee][]). The CoC Committee may, if necessary, ask
+the jQuery Foundation Board of Directors for a resolution if consensus can not
+be reached.
 
 ### Requesting Moderation
 
-Anyone may request Moderation of a Post. Requesting Moderation of a Post can be accomplished in one of four ways:
+Anyone may request Moderation of a Post. Requesting Moderation of a Post can be
+accomplished in one of three ways:
 
-* Via the [report@nodejs.org](mailto:report@nodejs.org) email address,
-* Via private email to individual TSC members,
-* Via a new Post in the same thread as the Post being requested for Moderation,
-* Via a new Post in the private nodejs/moderation repository.
+* Via the [conduct@jquery.org][] email address,
+* Via private email to individual CoC Committee members,
+* Via a new Post in the same thread as the Post being requested for Moderation.
 
-Note that Collaborators may Moderate non-Collaborator Posts at any time without submitting an initial request (see: [Non-Collaborator Posts](#non-collaborator-posts)).
+Note that Collaborators may Moderate non-Collaborator Posts at any time without
+submitting an initial request (see: [Non-Collaborator Posts][]).
 
-Use of the [report@nodejs.org](mailto:report@nodejs.org) email address -- or private email to individual TSC members -- is appropriate when the individual requesting the Moderation does not feel comfortable directly or publicly making the request. All emails sent to the [report@nodejs.org](mailto:report@nodejs.org) address are currently forwarded to all members of the TSC.
+Use of the [conduct@jquery.org][] email address -- or private email to
+individual CoC Committee members -- is appropriate when the individual
+requesting the Moderation does not feel comfortable directly or publicly making
+the request. All emails sent to the [conduct@jquery.org][] address are forwarded
+to all members of the CoC Committee.
 
-When a request is sent by email to the [report@nodejs.org](mailto:report@nodejs.org) (or directly to a TSC member) a new issue detailing the request must be created in the private nodejs/moderation repository. The identity of the individual submitting the request should be omitted from the issue unless permission to include the identity is provided by the reporter.
-
-Requests should contain as much information and context as possible, including the URL and a screenshot of the Post in question. Screenshots may be modified to obscure obscene or offensive content.
-
-External public venues or social media services such as Twitter should never be used to request Moderation.
-
-Collaborators should never discuss the specific details of a Moderation request in any public forum or any social media service outside of the Node.js GitHub Organization.
-
-Note that quoting the original content of a Post within a Moderation request or nodejs/moderation repository issue is not considered a violation of the Code of Conduct. However, discretion is advised when including such quotes in requests posted to public repositories.
-
-Requests for Moderation that do not appear to have been submitted in good faith with intent to address a legitimate Code of Conduct violation, as determined by the TSC, may be ignored.
+Requests for Moderation that do not appear to have been submitted in good faith
+with intent to address a legitimate Code of Conduct violation, as determined by
+the CoC Committee, may be ignored.
 
 ### Consideration of Intent
 
-Before Moderating a Post, Collaborators should carefully consider the possible intent of the author. It may be that the author has simply made an error or is not yet familiar with the [Code of Conduct](https://GitHub.com/nodejs/node/blob/master/CODE_OF_CONDUCT.md); or it may be that cultural differences exist, or that the author is unaware that certain content is considered inappropriate. In such cases, the author should be given an opportunity to correct any error that may have been made.
+Before Moderating a Post, Collaborators should carefully consider the possible
+intent of the author. It may be that the author has simply made an error or is
+not yet familiar with the [jQuery Foundation Code of Conduct][]; or it may be
+that cultural differences exist, or that the author is unaware that certain
+content is considered inappropriate. In such cases, the author should be given
+an opportunity to correct any error that may have been made.
 
-Note, however, that unfamiliarity with the [Code of Conduct](https://GitHub.com/nodejs/node/blob/master/CODE_OF_CONDUCT.md) does not excuse a Post from Moderation.
+Note, however, that unfamiliarity with the [jQuery Foundation Code of Conduct][]
+does not excuse a Post from Moderation.
 
 ### Guidelines and Requirements
 
-* All Posts are expected to respect the [Node.js Code of Conduct](https://GitHub.com/nodejs/node/blob/master/CODE_OF_CONDUCT.md).
-* Only Collaborators with commit rights to a given repository may Moderate Posts within that repository's issue tracker.
-* The TSC serves as the final arbiter for all Moderation issues (see: [Escalation to the TSC](#escalation-to-the-tsc)).
-* Only a TSC member may Ban an individual from the Node.js GitHub Organization.
-* Any individual Banned from the Node.js GitHub Organization will be recommended for exclusion from any Node.js Foundation sponsored event or activity.
-* Minor edits to the formatting of a Post or to correct typographical errors are not considered to be "Moderation". Such edits and their intent should still be documented with a short note indicating who made the edit and why.
+* All Posts are expected to respect the [jQuery Foundation Code of Conduct][].
+* Only Collaborators with commit rights to a given repository may Moderate Posts
+within that repository's issue tracker.
+* The CoC Committee, or in very rare cases the Board of Directors, serves as the
+final arbiter for all Moderation issues (see:
+[Escalation to the CoC Committee][]).
+* Only a CB, TSC or Board of Directors member may Ban an individual from a
+jQuery Foundation owned GitHub organization or repository.
+* Any individual Banned from a jQuery Foundation owned GitHub organization or
+repository will be recommended for exclusion from any jQuery Foundation
+sponsored event or activity.
+* Minor edits to the formatting of a Post or to correct typographical errors are
+not considered to be "Moderation". Such edits and their intent should still be
+documented with a short note indicating who made the edit and why.
 
 #### Collaborator Posts
 
-* Collaborators must not Moderate any Post authored by another Collaborator without first giving the author at least 24 hours (from the time of the initial request) to modify or remove the Post on their own.
-* If the author of the Post disagrees that Moderation is required, the matter can be [escalated to the TSC](#escalation-to-the-tsc) for resolution. In such cases, no Moderation action should be taken until a decision by the TSC is made.
-* In extreme circumstances involving either obvious gross violations of the [Node.js Code of Conduct](https://GitHub.com/nodejs/node/blob/master/CODE_OF_CONDUCT.md) or possible compromise of a Collaborator's GitHub account, the TSC can be consulted to waive the 24 hour grace period and dispute process.
-* When Moderating any Post authored by another Collaborator, the moderating Collaborator must:
- * Explain the justification for Moderating the post,
- * Identify all changes made to the Post, and
- * Identify the steps previously taken to resolve the issue.
-* Explanations of Moderation actions on Collaborator Posts must be provided in:
- * A new post within the original thread, or
- * A new issue within the private nodejs/moderation repository.
-* Any Collaborator who habitually authors Posts that must be Moderated can be Banned from further participation in the Node.js GitHub organization for an indefinite period of time. Such action can only be taken through normal TSC motion and vote (see: [Escalation to the TSC](#escalation-to-the-tsc)).
+* Collaborators must not Moderate any Post authored by another Collaborator
+without first giving the author at least 24 hours (from the time of the initial
+request) to modify or remove the Post on their own.
+* If the author of the Post disagrees that Moderation is required, the matter
+can be resolved by [Escalation to the CoC Committee][]. In such cases, no
+Moderation action should be taken until a decision by the CoC Committee is made.
+* In extreme circumstances involving either obvious gross violations of the
+[jQuery Foundation Code of Conduct][] or possible compromise of a Collaborator's
+GitHub account, the CoC Committee can be consulted to waive the 24 hour grace
+period and dispute process.
+
+When Moderating any Post authored by another Collaborator, the moderating
+Collaborator must:
+* Explain the justification for Moderating the post,
+* Identify all changes made to the Post, and
+* Identify the steps previously taken to resolve the issue.
+
+Explanations of Moderation actions on Collaborator Posts must be provided in:
+* A new post within the original thread, ***or***
+* A message to [conduct@jquery.org][].
+
+Any Collaborator who habitually authors Posts that must be Moderated can be
+Banned from further participation in the jQuery Foundation owned GitHub
+organization or repository for an indefinite period of time.
 
 #### Non-Collaborator Posts
 
-* Posts authored by non-Collaborators are always subject to immediate Moderation by any Collaborator if the content is intentionally disruptive or in violation of the [Node.js Code of Conduct](https://GitHub.com/nodejs/node/blob/master/CODE_OF_CONDUCT.md).
-* When Moderating non-Collaborator Posts, the moderating Collaborator should:
- * Explain the justification for Moderating the post, and
- * Identify all changes made to the Post.
-* If an explanation of a Moderation action for a non-Collaborator Post is provided, it should be provided in:
- * The original Post being modified (as replacement or appended content),
- * A new post within the original thread, or
- * A new issue within the private nodejs/moderation repository.
-* Moderation of Posts authored by non-Collaborators may result in those non-Collaborators being Banned from further participation in the Node.js GitHub organization for an indefinite period of time.
-* In the case where a GitHub Account appears to have been created with no intention to collaborate in good faith, swift actions may be taken without following the above procedures including: removing Posts, Banning, and reporting accounts to GitHub.
+Posts authored by non-Collaborators are always subject to immediate Moderation
+by any Collaborator if the content is intentionally disruptive or in violation
+of the [jQuery Foundation Code of Conduct][].
 
-Note that Moderating non-Collaborator posts can often lead to retaliation or escalation of inappropriate behavior by the individual whose post is being Moderated. This is true primarily of individuals whose intent is to harass, disrupt or annoy individual members of the community. In such cases, it is best to handle the Moderation as quickly and as quietly as possible without drawing any further undue attention to the Post in question.
+When Moderating non-Collaborator Posts, the moderating Collaborator should:
+* Explain the justification for Moderating the post, and
+* Identify all changes made to the Post.
 
-### Escalation to the TSC
+If an explanation of a Moderation action for a non-Collaborator Post is
+provided, it should be provided in:
+* The original Post being modified (as replacement or appended content),
+***or***
+* A new post within the original thread, ***or***
+* A message to [conduct@jquery.org][].
 
-Any Moderation issue or dispute can be escalated to the TSC by "mentioning" `@nodejs/tsc` in the body of a GitHub issue either in the original thread or in the private nodejs/moderation repository. Optionally, the `tsc-agenda` label may be attached to the issue to request that it be added to the TSC meeting agenda.
+Moderation of Posts authored by non-Collaborators may result in those
+non-Collaborators being Banned from further participation in the jQuery
+Foundation owned GitHub organization or repository for an indefinite period of
+time.
 
-(Note that using the `@nodejs/tsc` syntax to mention the TSC in the body of a request only will only work if the author of the Post is currently a member of the Node.js GitHub organization.)
+In the case where a GitHub Account appears to have been created with no
+intention to collaborate in good faith, swift actions may be taken without
+following the above procedures including: removing Posts, Banning, and reporting
+accounts to GitHub.
 
-All Moderation-related decisions follow the normal [TSC motion and voting process](https://GitHub.com/nodejs/TSC/blob/master/TSC-Charter.md#section-8-voting).
+Note that Moderating non-Collaborator posts can often lead to retaliation or
+escalation of inappropriate behavior by the individual whose post is being
+Moderated. This is true primarily of individuals whose intent is to harass,
+disrupt or annoy individual members of the community. In such cases, it is best
+to handle the Moderation as quickly and as quietly as possible without drawing
+any further undue attention to the Post in question.
 
-TSC members directly involved in a Moderation issue -- as either the Requester or author of the Post in question -- are expected to excuse themselves from any decisions required to resolve the issue.
+### Escalation to the CoC Committee
 
-### Privacy of the nodejs/moderation Repository
+Any Moderation issue or dispute can be escalated to the CoC Committee by
+sending a message to [conduct@jquery.org][].
 
-The nodejs/moderation Repository is used to discuss the potentially sensitive details of any specific moderation issue. The repository is private but accessible to all Collaborators. The details of any issue discussed within the nodejs/moderation repository are expected to remain confidential and are not to be discussed in any public forum or social media service.
+All Moderation-related decisions follow the processes defined in the
+[jQuery Foundation Code of Conduct][].
 
-Any Collaborator found to be violating the privacy of the nodejs/moderation repository by repeatedly sharing or discussing the details of nodejs/moderation issues in any public forum or social media service risks being removed from the Node.js GitHub organization through standard TSC motion and vote.
-
-### TSC Delegation of Authority to a "Moderation Working Group"
-
-For any Moderation issue that does not directly involve a TSC member, the TSC may choose to delegate some or all of it's Moderation-related responsibilities to a "Moderation Working Group". All members of such a Working Group must be Collaborators and the TSC will have responsibility for selecting the membership of that Moderation Working Group.
+Code of Conduct Committee members directly involved in a Moderation issue -- as
+either the Requester or author of the Post in question -- are expected to excuse
+themselves from any decisions required to resolve the issue.
 
 ### Modifications to This Policy
 
-Modifications to this policy are made through normal [TSC motion and vote](https://GitHub.com/nodejs/TSC/blob/master/TSC-Charter.md#section-8-voting). Any Collaborator may submit a PR proposing changes to this policy. Those PRs must be labeled using the `tsc-agenda` label. Including a mention to `@nodejs/tsc` can be used to call the issue to TSC's attention.
+Modifications to this policy are made through normal [CB motion and vote][].
+Any Collaborator may submit a PR proposing changes to this policy. Those PRs
+must be labeled using the `CB-agenda` label.
+
+[jQuery Foundation Code of Conduct]: https://jquery.org/conduct/
+[GitHub's access permissions documentation]: https://help.github.com/articles/what-are-the-different-access-permissions/
+[jQuery Foundation Collaboration Board]: https://github.com/jquery-foundation/CB/
+[Code of Conduct Committee]: https://jquery.org/conduct/committee/
+[Escalation to the CoC Committee]: #escalation-to-the-coc-committee
+[conduct@jquery.org]: mailto:conduct@jquery.org
+[Non-Collaborator Posts]: #non-collaborator-posts
+[CB motion and vote]: https://github.com/jquery-foundation/CB/blob/master/CB-Charter.md#section-8-voting
