@@ -126,6 +126,6 @@ Foundation CB is based heavily on the
 [Lodash]: https://lodash.com/
 [RequireJS]: https://requirejs.org/
 [Working Groups]: WORKING_GROUPS.md
-[General Org Strucutre Overview][General-Org-Structure-Overview.pdf]
-[Detailed Technical Org Structure][Technical-Org-Structure.pdf]
+[General Org Strucutre Overview]: General-Org-Structure-Overview.pdf
+[Detailed Technical Org Structure]: Technical-Org-Structure.pdf
 [Node.js Foundation TSC repository]: https://github.org/nodejs/TSC/
