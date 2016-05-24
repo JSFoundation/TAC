@@ -97,8 +97,8 @@ charter.
 
 ## Org Charts
 To illustrate the structure of the jQuery Foundation's governance and technical
-leadership, we have created a [General Org Strucutre Overview][] chart as well
-as a [Detailed Technical Org Structure][] chart for reference.
+leadership, we have created a [General Org Strucutre Overview][] chart and will
+add a Detailed Technical Org Structure chart once complete for reference.
 
 ## Credits
 This repository of policies, procedures and information regarding the jQuery
@@ -127,5 +127,4 @@ Foundation CB is based heavily on the
 [RequireJS]: https://requirejs.org/
 [Working Groups]: WORKING_GROUPS.md
 [General Org Strucutre Overview]: General-Org-Structure-Overview.pdf
-[Detailed Technical Org Structure]: Technical-Org-Structure.pdf
 [Node.js Foundation TSC repository]: https://github.org/nodejs/TSC/
