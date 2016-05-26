@@ -46,8 +46,8 @@ values. These metrics are:
 
 * TSC is 5 members or greater and the TSC must have at least 1 representative
 from each Project.
-* No more than 1/4 of the TSC is affiliated with the same employer.
-* No more than 1/4 of any Project is affiliated with the same employer.
+* No more than 1/3 of the TSC is affiliated with the same employer.
+* No more than 1/3 of any Project is affiliated with the same employer.
 * The decision making and release process is documented and publicly accessible.
 
 A TSC and its Projects may apply to graduate from mentorship at any time by
