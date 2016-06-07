@@ -1,10 +1,41 @@
 # The jQuery Foundation Collaboration Board
 
 The jQuery Foundation Collaboration Board (CB) and Technical Steering Committees
-(TSC) are the technical governing body of the jQuery Foundation. The CB admits
-all Projects into the jQuery Foundation as well as charters all TSCs and Working
-Groups (WG). It also elects a representative to the jQuery Foundation Board of
-Directors.
+(TSC) are the technical governing body of the jQuery Foundation. The goals of
+this technical structure are to:
+
+1. **Separate the business aspects from the technical aspects of the
+Foundation.**  
+The Executive Director, Board of Directors and others under their direction
+focus on fundraising and strategic goals for the Foundation. The goal here is to
+create a project-oriented structure to provide help and mentorship to projects.
+
+2. **Establish a set of best practices for sustaining open source projects.**  
+This organization should create sample policies that provide guide rails and
+suggestions. Projects know their communities best and can tailor these practices
+to ensure their projects are sustainable.
+
+3. **Separate policy review from writing code and running a project.**  
+There will often be overlap in the people reviewing policies and those writing
+code or running a project. A separate process within the organization structure
+that focuses on policy review lets them take a step back and review the
+project’s overall health.
+
+4. **Have an independent group acting as an advocate for the project
+community.**  
+From the inside of a single project, it is often difficult to see opportunities
+for collaboration or know when the project has run into problems that could be
+solved by outside assistance. A group with a wider perspective can help.
+
+5. **Tailor involvement with the Foundation to fit project needs.**  
+Some projects have chosen the Foundation primarily to hold mature code bases
+that need few changes. Others are looking for help in managing growing code and
+communities. These projects have different needs and the Foundation wants to
+accommodate both.
+
+The CB also admits all Projects into the jQuery Foundation as well as charters
+all TSCs and Working Groups (WG). It also elects a representative to the jQuery
+Foundation Board of Directors.
 
 For more details read the [CB Charter][] adopted by the jQuery Foundation Board
 of Directors on <<INSERT DATE>>.
