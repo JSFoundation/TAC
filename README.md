@@ -1,8 +1,8 @@
-# The jQuery Foundation Collaboration Board
+# The jQuery Foundation Technical Governance
 
-The jQuery Foundation Collaboration Board (CB) and Technical Steering Committees
-(TSC) are the technical governing body of the jQuery Foundation. The goals of
-this technical structure are to:
+The jQuery Foundation Technical Advisory Committee (TAC) and Collaboration
+Boards (CB) are the technical governing body of the jQuery Foundation. The goals
+of this technical structure are to:
 
 1. **Separate the business aspects from the technical aspects of the
 Foundation.**  
@@ -33,63 +33,60 @@ that need few changes. Others are looking for help in managing growing code and
 communities. These projects have different needs and the Foundation wants to
 accommodate both.
 
-The CB also admits all Projects into the jQuery Foundation as well as charters
-all TSCs and Working Groups (WG). It also elects a representative to the jQuery
+The TAC also admits all Projects into the jQuery Foundation as well as charters
+all CBs and Working Groups (WG). It also elects a representative to the jQuery
 Foundation Board of Directors.
 
-For more details read the [CB Charter][] adopted by the jQuery Foundation Board
+For more details read the [TAC Charter][] adopted by the jQuery Foundation Board
 of Directors on <<INSERT DATE>>.
 
 If your project is interested in joining the jQuery Foundation please read the
 [Project Lifecycle.md][] documentation.
 
-## CB Members
+## TAC Members
 
-CB members are responsible for top level technical community concerns and
+TAC members are responsible for top level technical community concerns and
 promoting collaboration both within and among the many projects in the jQuery
 Foundation. The role is mostly administrative and is responsible for advocating
 the needs of the technical side of the Foundation to the jQuery Foundation Board
 of Directors.
 
-Candidates for membership in the CB tend to be people who have a competency for
+Candidates for membership in the TAC tend to be people who have a competency for
 community management and a high tolerance and patience for process minutiae as
-the CB delegates most of its responsibilities to other Projects, TSCs and
+the TAC delegates most of its responsibilities to other Projects, CBs and
 Working Groups.
 
-TSCs can appoint someone to the CB who they elect at their own discretion from
-their membership. The number of CB members, term lengths and additional
-information can be found in the [CB Charter][].
+Projects can appoint someone to the TAC who they elect at their own discretion from
+their membership. The number of TAC members, term lengths and additional
+information can be found in the [TAC Charter][].
 
-## TSCs, Projects and WGs
+## CBs, Projects and WGs
 
-### TSCs and Projects
+### CBs and Projects
 * jQuery Foundation Projects
-    * Library and Toolkit TSC
-        * [jQuery][]
-        * [Dojo][]
-        * [Sizzle][]
-    * Standards and Language TSC
-        * [Globalize][]
-        * [Jed][]
-        * [MessageFormat][]
-        * [PEP][]
-    * Testing TSC
-        * [Intern][]
-        * [QUnit][]
-    * Tooling TSC
-        * [ESLint][]
-        * [Esprima][]
-        * [Grunt][]
-    * User Interface TSC
-        * [Chassis][]
-        * [Dijit][]
-        * [jQuery Mobile][]
-        * [jQuery UI][]
-    * Utilities TSC
-        * [Lodash][]
-        * [RequireJS][]
+  * At-large Projects (listed alphabetically)
+      * [Chassis][]
+      * [Dojo][]
+      * [ESLint][]
+      * [Esprima][]
+      * [Globalize][]
+      * [Grunt][]
+      * [Intern][]
+      * [Jed][]
+      * [jQuery][]
+      * [jQuery Mobile][]
+      * [jQuery UI][]
+      * [Lodash][]
+      * [MessageFormat][]
+      * [PEP][]
+      * [QUnit][]
+      * [RequireJS][]
+      * [Sizzle][]
 * Mentorship Program Projects
     *
+
+### At-large Projects
+NEED A DEFINITION
 
 ### Mentors
 Project mentorship is not a technical role. In fact, mentors are discouraged
@@ -103,40 +100,40 @@ mentorship phase.
 
 ## Policy Change Proposal Process
 
-The jQuery Foundation CB is chartered, subject to such policies as may be set by
-the Board of Directors, to ensure collaboration is the driving principle within
-a Project, between jQuery Foundation Projects, and between jQuery Foundation
-Projects and the broader community. The CB is also responsible for chartering
-TSCs and WGs as well as mediating technical conflicts between jQuery Foundation
-Projects. TSCs and Working Groups have broad powers of self-governance.
+The jQuery Foundation TAC is chartered, subject to such policies as may be set
+by the Board of Directors, to ensure collaboration is the driving principle
+within a Project, between jQuery Foundation Projects, and between jQuery
+Foundation Projects and the broader community. The TAC is also responsible for
+chartering CBs and WGs. CBs and Working Groups have broad powers of
+self-governance as defined by the policies in their charter.
 
 To propose a change or addition to policies or processes that are intended to
 cover all Projects and Working Groups in the Foundation, a PR should be opened
-in the `jquery-foundation/CB` repository.
+in the `jquery-foundation/TAC` repository.
 
-The pull request can be labeled `CB-agenda` to request that it be put on the
-agenda for the next CB meeting.
+The pull request can be labeled `TAC-agenda` to request that it be put on the
+agenda for the next TAC meeting.
 
 The jQuery Foundation Board of Directors retains certain rights (especially
-legal considerations). If the CB endorses a proposal, they will escalate to the
+legal considerations). If the TAC endorses a proposal, they will escalate to the
 jQuery Foundation Board of Directors when required to do so.
 
 In some cases, existing individual groups have the right to refuse changes to
-their charters. The CB can not mandate that existing working groups alter their
-charters. If such a situation arises, the CB may decide to revoke the group's
+their charters. The TAC can not mandate that existing CBs or WGs alter their
+charters. If such a situation arises, the TAC may decide to revoke the group's
 charter.
 
 ## Org Charts
 To illustrate the structure of the jQuery Foundation's governance and technical
-leadership, we have created a [General Org Strucutre Overview][] chart and will
+leadership, we have created a [General Org Structure Overview][] chart and will
 add a Detailed Technical Org Structure chart once complete for reference.
 
 ## Credits
 This repository of policies, procedures and information regarding the jQuery
-Foundation CB is based heavily on the
+Foundation TAC is based heavily on the
 [Node.js Foundation TSC repository][].
 
-[CB Charter]: https://github.com/jquery-foundation/CB/blob/master/CB-Charter.md
+[TAC Charter]: https://github.com/jquery-foundation/TAC/blob/master/TAC-Charter.md
 [Project Lifecycle.md]: Project-Lifecycle.md
 [jQuery]: https://jquery.com
 [Dojo]: https://dojotoolkit.org
@@ -157,5 +154,5 @@ Foundation CB is based heavily on the
 [Lodash]: https://lodash.com/
 [RequireJS]: https://requirejs.org/
 [Working Groups]: WORKING_GROUPS.md
-[General Org Strucutre Overview]: General-Org-Structure-Overview.pdf
+[General Org Structure Overview]: General-Org-Structure-Overview.pdf
 [Node.js Foundation TSC repository]: https://github.org/nodejs/TSC/

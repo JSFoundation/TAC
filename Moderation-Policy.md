@@ -22,19 +22,19 @@ process of reported Code of Conduct violations. This policy applies to all
 repositories under the ownership of the jQuery Foundation and all jQuery
 Foundation Working Groups.
 
-Working Groups and TSCs chartered by the CB may adopt an alternative Moderation
+Working Groups and CBs chartered by the TAC may adopt an alternative Moderation
 Policy for any repository under their stewardship so long as:
 * The Moderation Policy is openly documented as part of the Working Group or
-TSC Charter and;
+CB Charter and;
 * It includes provisions for clearly and openly documenting Moderation actions
 taken.
 
 If a particular repository can be considered to fall under the stewardship of
-multiple Working Groups (or TSCs) that have adopted different Moderation
+multiple Working Groups (or CBs) that have adopted different Moderation
 Policies, they can choose to either:
 * Decide between themselves which Moderation Policy will be in effect for the
 repository in question, or
-* Ask the CB to determine which Moderation Policy should apply.
+* Ask the TAC to determine which Moderation Policy should apply.
 
 Any alternative Moderation Policy used for a given repository must be included
 in the root directory of the repository using the `Moderation-Policy.md`
@@ -46,14 +46,14 @@ then this default policy applies.
 * *Collaborator* refers to any individual with configured access permissions to
 any jQuery Foundation owned GitHub organization or repository. See
 [GitHub's access permissions documentation][] for more information.
-* *CB* refers to the [jQuery Foundation Collaboration Board][].
+* *TAC* refers to the [jQuery Foundation Technical Advisory Committee][].
 * *Post* refers to the content and titles of any issue, pull request, comment or
 wiki page.
 * *Moderate* refers to the act of modifying the content and title of, or
 deleting, any Post for the purpose of correcting or addressing Code of Conduct
 violations.
 * *Ban* refers to the act of blocking an individual GitHub account from any
-further participation in the jQuery Foundation owned GitHub organization or
+further participation in a jQuery Foundation owned GitHub organization or
 repository.
 * *Requester* refers to an individual requesting Moderation on a Post.
 
@@ -110,7 +110,7 @@ within that repository's issue tracker.
 * The CoC Committee, or in very rare cases the Board of Directors, serves as the
 final arbiter for all Moderation issues (see:
 [Escalation to the CoC Committee][]).
-* Only a CB, TSC or Board of Directors member may Ban an individual from a
+* Only a TAC, CB or Board of Directors member may Ban an individual from a
 jQuery Foundation owned GitHub organization or repository.
 * Any individual Banned from a jQuery Foundation owned GitHub organization or
 repository will be recommended for exclusion from any jQuery Foundation
@@ -194,13 +194,13 @@ themselves from any decisions required to resolve the issue.
 
 ### Modifications to This Policy
 
-Modifications to this policy are made through normal [CB motion and vote][].
+Modifications to this policy are made through normal [TAC motion and vote][].
 Any Collaborator may submit a PR proposing changes to this policy. Those PRs
-must be labeled using the `CB-agenda` label.
+must be labeled using the `TAC-agenda` label.
 
 [jQuery Foundation Code of Conduct]: https://jquery.org/conduct/
 [GitHub's access permissions documentation]: https://help.github.com/articles/what-are-the-different-access-permissions/
-[jQuery Foundation Collaboration Board]: https://github.com/jquery-foundation/CB/
+[jQuery Foundation Technical Advisory Committee]: https://github.com/jquery-foundation/TAC/
 [Code of Conduct Committee]: https://jquery.org/conduct/committee/
 [Escalation to the CoC Committee]: #escalation-to-the-coc-committee
 [conduct@jquery.org]: mailto:conduct@jquery.org
