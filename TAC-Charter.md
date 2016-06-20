@@ -41,22 +41,23 @@ consist of:
 
 1. A representative from each Project (if desired)
 2. A representative from each jQuery Foundation Member organization (if desired)
-3. Individuals from the great JS community as appointed by the existing TAC or
+3. Individuals from the greater JS community as appointed by the existing TAC or
 the Board
 
 There is no specific set of requirements or qualifications for TAC membership
 beyond these rules. The TAC may add additional members from the JS community to
-the TAC by a standard TAC motion and vote. A TAC member, including those
-appointed by Projects and Members organizations may be removed from the TAC by
-voluntary resignation, or by a standard TAC motion and vote. If the removed
-members is a Project or Member organization representative, that Project or
-Member organization may appoint a new representative. The removed member may
-again be considered for addition to the TAC after a term of 1 year from their
-removal. At the end of a member's term, that term may be renewed for an
-additional term by a standard TAC motion and vote.
+the TAC by a standard TAC motion and vote as described in the [Voting][] section
+of this charter. A TAC member, including those appointed by Projects and Member
+organizations may be removed from the TAC by voluntary resignation, or by a
+standard TAC motion and vote. If the removed member is a Project or Member
+organization representative, that Project or Member organization may appoint a
+new representative. The removed member may again be considered for addition to
+the TAC after a term of 1 year from their removal. At the end of a member's
+term, that term may be renewed for an additional term by a standard TAC motion
+and vote.
 
-Changes to TAC membership should be posted in the agenda, and may be suggested
-as any other agenda item.
+Changes to TAC membership should be posted in the TAC meeting agenda, and may be
+suggested as any other agenda item.
 
 No more than one-fourth of the TAC members may be affiliated with the same
 employer. If removal or resignation of a TAC member, or a change of employment
@@ -129,7 +130,36 @@ The CBs and entire technical community will follow any processes as may be
 specified by the Board relating to the intake and license compliance review of
 contributions, including the jQuery Foundation CLA and IP Policy.
 
-## Section 7. Elections
+## Section 7. Decision Making
+
+For internal Project decisions, Collaborators shall operate under Lazy
+Consensus. The CB for a Project or group of Projects shall establish
+appropriate guidelines for implementing Lazy Consensus (e.g. expected
+notification and review time periods) within the development process.
+
+The CBs and TAC follow a [Consensus Seeking][] decision making model. When an
+agenda item has appeared to reach a consensus the moderator will ask "Does
+anyone object?" as a final call for dissent from the consensus.
+
+If an agenda item cannot reach a consensus a CB/TAC member can call for either a
+closing vote or a vote to table the issue to the next meeting. Votes shall
+follow the procedure described in the [Voting][] section of this charter.
+
+## Section 8. Voting
+
+Voting should only be used when consensus can not be reached through usual
+collaborative processes or in the case of elections as described in the
+[Elections][] section of this charter. The call for a vote must be seconded by a
+majority of the CB/TAC or else the discussion and attempt to reach consensus
+will continue. Simple majority wins a vote, with the following exceptions, which
+will require the affirmative vote of two-thirds of the members of the CB/TAC to
+pass:
+
+* Adding or removing members of the CB or TAC
+* Changes to the CB charter which also requires TAC approval
+* Changes to the TAC charter which also requires Board approval
+
+## Section 9. Elections
 
 Leadership roles in the jQuery Foundation's technical organization will be peer
 elected representatives of the community.
@@ -159,28 +189,7 @@ Directors for a term of one year according to the jQuery Foundation's By-laws.
 The TAC shall hold annual elections to select a TAC Chairperson; there are no
 limits on the number of terms a TAC Chairperson may serve.
 
-## Section 8. Voting
-
-For internal project decisions, Collaborators shall operate under Lazy
-Consensus. The CB for a project or group of projects shall establish
-appropriate guidelines for implementing Lazy Consensus (e.g. expected
-notification and review time periods) within the development process.
-
-The CBs and TAC follow a [Consensus Seeking][] decision making model. When an
-agenda item has appeared to reach a consensus the moderator will ask "Does
-anyone object?" as a final call for dissent from the consensus.
-
-If an agenda item cannot reach a consensus a CB/TAC member can call for either
-a closing vote or a vote to table the issue to the next meeting. The call for a
-vote must be seconded by a majority of the CB/TAC or else the discussion will
-continue. Simple majority wins, with the following exceptions, which will
-require the affirmative vote of two-thirds of the members of the CB/TAC to pass:
-
-* Adding or removing members of the CB or TAC
-* Changes to the CB charter which also requires TAC approval
-* Changes to the TAC charter which also requires Board approval
-
-## Section 9. Project Roles
+## Section 10. Project Roles
 
 The jQuery Foundation Project repositories are maintained by the Projects, their
 CB and additional Collaborators who are added by the Project on an ongoing
@@ -201,7 +210,7 @@ of current Collaborators, as well as a development process guide, within the
 guidelines set forth in the Project's CB charter, for Collaborators and
 Contributors looking to participate in the development effort.
 
-## Section 10. Definitions
+## Section 11. Definitions
 
 **Project**: a technical collaboration effort that is organized through the
 project mentorship process and approved by the TAC.
@@ -222,6 +231,8 @@ policies.
 
 [Foundation mission and vision statements]: https://jquery.org/mission/
 [Foundation bylaws]: https://jquery.org/bylaws/
+[Voting]: #section-8.-voting
+[Elections]: #section-9.-elections
 [Condorcet]: http://en.wikipedia.org/wiki/Condorcet_method
 [Single Transferable Vote]: http://en.wikipedia.org/wiki/Single_transferable_vote
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
