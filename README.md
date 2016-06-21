@@ -83,10 +83,14 @@ information can be found in the [TAC Charter][].
       * [RequireJS][]
       * [Sizzle][]
 * Mentorship Program Projects
-    *
+    * 
 
 ### At-large Projects
-NEED A DEFINITION
+At-large projects in the jQuery Foundation are a group of projects that do not
+currently belong to a CB. These projects tend to be mature projects in a more
+steady state rather than highly active projects with growing contributor bases.
+These projects may remain in this state indefinitely or may form/join a CB when
+an appropriate fit is determined.
 
 ### Mentors
 Project mentorship is not a technical role. In fact, mentors are discouraged
