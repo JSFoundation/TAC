@@ -1,8 +1,8 @@
 ## CB, WG and Project Governance
 
-Every technical governing body over Projects in the Foundation must have a
-documented governance model that describes its basic operation. This must be
-documented in the appropriate repository and referenced by the `README.md`.
+Every technical governing body in the Foundation must have a documented
+governance model that describes its basic operation. This must be documented in
+the appropriate repository and referenced by the `README.md`.
 
 ## Starting a CB or WG
 
@@ -15,25 +15,62 @@ A technical governing body needs 3 initial members. These should be individuals
 already undertaking the work described in the charter.
 
 The list of responsibilities should be specific. The only recourse the TAC has
-over a Working Group is to revoke the entire charter and take on the work
-previously done by the Working Group themselves or charter a new Working Group
-to take on that work.
+over a CB or WG is to revoke the entire charter and take on the work previously
+done by the CB or WG themselves or charter a new CB or WG to take on that work.
 
 If the responsibilities described in the charter are currently undertaken by
 another governing body then the charter will additionally have to be ratified by
 that governing body.
 
-You can submit a CB or WG charter for ratification by sending a Pull Request to
-the TAC's README.md for new CBs while new WGs send a Pull Request to the TAC's
-WORKING_GROUPS.md document. The CB or WG is considered to be chartered once that
-PR lands. Once ratified the list of members should be maintained in the CB's or
-WG's README.
+Additional information for starting a CB or WG can be found in the relevant
+charter template in this directory.
+
+## Meetings
+
+The CB or WG shall meet regularly using tools that enable participation by the
+community (e.g. quarterly on a Google Hangout On Air, or through any other
+appropriate means selected by the membership). The meeting shall be directed by
+a moderator chosen by the membership. Minutes or an appropriate recording shall
+be taken and made available to the community through accessible public postings.
+
+Items are added to the meeting agenda that are considered contentious or are
+modifications of governance, contribution policy or membership.
+
+Any community member or contributor can ask that something be added to the next
+meeting's agenda by logging a GitHub Issue. Any Collaborator, CB or WG member or
+the moderator can add the item to the agenda by adding the **CB-agenda** or
+**WG-agenda** tag to the issue.
+
+Prior to each meeting the moderator will share the Agenda with members. Members
+can add any items they like to the agenda at the beginning of each meeting.
+Neither the moderator nor the membership can veto or remove items from the
+agenda.
+
+The members may invite persons or representatives from certain projects to
+participate in a non-voting capacity.
+
+The moderator is responsible for summarizing the discussion of each agenda item
+and sends the summary of the discussion as a pull request to this repository
+after the meeting. Note that the moderator could delegate this task to someone,
+if desired.
+
+## Consensus Seeking Process
+
+CBs and WGs follow a [Consensus Seeking][] decision-making model. When an agenda
+item has appeared to reach a consensus the moderator will ask "Does anyone
+object?" as a final call for dissent from the consensus.
+
+If an agenda item cannot reach a consensus, a member can call for either a
+closing vote or a vote to table the issue to the next meeting. The call for a
+vote must be seconded by a majority of the members present or else the
+discussion will continue. Simple majority wins.
 
 ## Bootstrap Governance
 
 Once the TAC ratifies a charter, the governing body inherits the following
-documentation for governance, contribution, conduct and an MIT LICENSE. The governing body is free to change these documents through their own governance process,
-hence the term "bootstrap". It is recommended when starting a CB or WG that the
-[CB and WG Charter Template][] be used.
+documentation for governance, contribution, conduct and an MIT LICENSE. The
+governing body is free to change these documents through their own governance
+process, hence the term "bootstrap". It is recommended when starting a CB or WG
+that the appropriate template found in this directory be used.
 
-[CB and WG Charter Template]: CB-WG-Charter.md
+[Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making

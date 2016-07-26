@@ -1,4 +1,4 @@
-## Collaboration Board, Working Group and Project Code of Conduct Template
+## Collaboration Board, Working Group and Project Code of Conduct
 
 Every Collaboration Board (CB), Working Group (WG) or other defined governing
 body must have a Code of Conduct. By default, all repositories under the jQuery
@@ -22,9 +22,5 @@ than, or diverges too significantly from, the
 that further corrections be made by opening an issue or a PR in the governing
 body's repository. Should the governing body choose not to adopt the recommended
 changes, the governing body's charter may be revoked.
-
-### Template: *[insert TSC or WG name]* Code of Conduct
-
-The [jQuery Foundation Code of Conduct][] applies to this *[TSC or WG]*.
 
 [jQuery Foundation Code of Conduct]: https://jquery.org/conduct/

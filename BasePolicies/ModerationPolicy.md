@@ -1,4 +1,4 @@
-## Collaboration Board and Working Group Moderation Policy Template
+## Collaboration Board and Working Group Moderation Policy
 
 Every Collaboration Board (CB) and Working Group (WG) must have a Moderation
 Policy. By default, all repositories under the jQuery Foundation owned GitHub
@@ -21,9 +21,5 @@ than, or diverges too significantly from, the
 request that further corrections be made by opening an issue or a PR in the CB's
 or WG's repository. Should the CB or WG choose not to adopt the recommended
 changes, the CB's or WG's charter may be revoked.
-
-### Template: *[insert CB/WG name]* Moderation Policy
-
-The [jQuery Foundation Moderation Policy][] applies to this *[CB or WG]*.
 
 [jQuery Foundation Moderation Policy]: https://github.com/jquery-foundation/TAC/blob/master/Moderation-Policy.md
