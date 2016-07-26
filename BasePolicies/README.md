@@ -29,18 +29,20 @@ WG's README.
 ### Base Policies for new Collaboration Boards and Working Groups
 
 Once the TAC ratifies a charter, the new CB or WG inherits the policies
-established by the TAC for governance, contribution, conduct and an MIT
-LICENSE. New CBs and WGs are free to change these documents through their own
-governance process but should retain at least the spirit of the original
-versions. The template documents provided in this directory are provided to help
-bootstrap that process:
+established by the TAC for governance, contribution, conduct and an MIT LICENSE.
+New CBs and WGs are free to change these documents through their own governance
+process but should retain at least the spirit of the original versions. The
+documents and templates in this directory are provided to help bootstrap that
+process:
 
-* [CB and WG Charter Template][]
+* [CB Charter Template][]
+* [WG Charter Template][]
 * [Governance Template][]
-* [Code of Conduct Template][]
-* [Moderation Policy Template][]
+* [Code of Conduct][]
+* [Moderation Policy][]
 
-[CB and WG Charter Template]: CB-WG-Charter.md
+[CB Charter Template]: CB-Charter.md
+[WG Charter Template]: WG-Charter.md
 [Governance Template]: Governance.md
-[Code of Conduct Template]: CODE_OF_CONDUCT.md
-[Moderation Policy Template]: ModerationPolicy.md
+[Code of Conduct]: CODE_OF_CONDUCT.md
+[Moderation Policy]: ModerationPolicy.md
