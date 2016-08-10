@@ -56,9 +56,8 @@ community management and a high tolerance and patience for process minutiae as
 the TAC delegates most of its responsibilities to other Projects, CBs and
 Working Groups.
 
-Projects can appoint someone to the TAC who they elect at their own discretion from
-their membership. The number of TAC members, term lengths and additional
-information can be found in the [TAC Charter][].
+The number of TAC members, term lengths and additional information can be found
+in the [TAC Charter][].
 
 ## CBs, Projects and WGs
 
