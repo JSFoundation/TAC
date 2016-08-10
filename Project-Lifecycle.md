@@ -112,8 +112,8 @@ request.
 
 ### Approved Licenses
 
-At this time, the Foundation's approved licenses include MIT, BSD, ISC or
-Apache2. Other licenses may be accepted on a case-by-case basis.
+At this time, the Foundation's approved licenses include MIT, BSD or Apache2.
+Other licenses may be accepted on a case-by-case basis.
 
 ### Admittance
 
