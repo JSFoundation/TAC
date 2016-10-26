@@ -1,10 +1,10 @@
-# jQuery Foundation Project Lifecycle
+# JS Foundation Project Lifecycle
 
 ## Project Definition
 
-The jQuery Foundation hosts several Projects. These Projects are autonomous from
+The JS Foundation hosts several Projects. These Projects are autonomous from
 each other. Projects are governed by their Collaboration Board (CB) which are
-chartered by the jQuery Foundation Technical Advisory Committee (TAC), their
+chartered by the JS Foundation Technical Advisory Committee (TAC), their
 Maintainers, or by another leadership structure as defined in their governance
 policies. The TAC also charters its own Working Groups for Foundation-wide
 and/or cross-CB and cross-Project initiatives.
@@ -51,7 +51,7 @@ TAC.
 ## Lifecycle
 
 The Foundation shall encourage new Projects and innovation in the community. New
-Projects enter the jQuery Foundation through a [Proposal][].
+Projects enter the JS Foundation through a [Proposal][].
 
 The Project should be considered mature and have a history of releases before
 applying to enter the Foundation. Exceptions may be made to this rule for
@@ -68,7 +68,7 @@ decision making process.
 ### Security
 
 All Projects in the Foundation share the same base security policy. The
-Foundation's security team triages issues sent to security@jquery.org.
+Foundation's security team triages issues sent to security@js.foundation.
 
 ## Decision Making Process
 
@@ -76,12 +76,12 @@ All CBs, WGs and other project level governing bodies must follow a
 [Consensus Seeking][] process and are responsible for documenting and keeping up
 to date their current processes and practices.
 
-Each Project may nominate a representative for election to the jQuery Foundation
+Each Project may nominate a representative for election to the JS Foundation
 TAC or vote to abstain from representation on the TAC.
 
 ## Applying to join
 
-A proposal to join the jQuery Foundation as a Project or Working Group must
+A proposal to join the JS Foundation as a Project or Working Group must
 include:
 
 * Introduction and Project description.
@@ -101,7 +101,7 @@ and community.
 * Prior to being admitted, the project must include:
  * [CLA][]
  * an [approved license][]. If it is not currently under an approved license, it
- will need to be cleared by the TAC and the jQuery Foundation Legal Committee or
+ will need to be cleared by the TAC and the JS Foundation Legal Committee or
  Board of Directors prior to acceptance into the mentorship program.
  * a [Code of Conduct][].
 
@@ -117,15 +117,15 @@ joining the Foundation. Other licenses may be accepted on a case-by-case basis.
 
 ### Admittance
 
-The jQuery Foundation selects Projects for admission as mentors become
+The JS Foundation selects Projects for admission as mentors become
 available.
 
 You may apply at any time and the TAC and available mentors will help improve
 your application while awaiting the next available approval phase.
 
-[mentors]:https://github.com/jquery-foundation/CB/blob/master/README.md#mentors
+[mentors]:https://github.com/JSFoundation/TAC/blob/master/README.md#mentors
 [Proposal]: #applying-to-join
 [Consensus Seeking]: https://en.wikipedia.org/wiki/Consensus-seeking_decision-making
-[CLA]: https://contribute.jquery.org/CLA/
+[CLA]: https://js.foundation/CLA/
 [approved license]: #approved-licenses
-[Code of Conduct]: https://jquery.org/conduct/
+[Code of Conduct]: https://js.foundation/conduct/

@@ -42,11 +42,11 @@ planned membership decision is being made, then their consent is assumed.
 
 ### Meetings
 
-The [jQuery Foundation Base Meetings Policy][] applies to this CB.
+The [JS Foundation Base Meetings Policy][] applies to this CB.
 
 ### Consensus Seeking Process
 
-The [jQuery Foundation Base Consensus Seeking Process Policy][] applies to this
+The [JS Foundation Base Consensus Seeking Process Policy][] applies to this
 CB.
 
 ### Contribution Policy
@@ -72,14 +72,14 @@ as the final arbiter where required.
 
 ### Moderation Policy
 
-The [jQuery Foundation Moderation Policy][] applies to this WG.
+The [JS Foundation Moderation Policy][] applies to this WG.
 
 ### Code of Conduct
 
-The [jQuery Foundation Code of Conduct][] applies to this WG.
+The [JS Foundation Code of Conduct][] applies to this WG.
 
 [README.md]: ./README.md
-[jQuery Foundation Base Meetings Policy]: https://github.com/jquery-foundation/TAC/blob/master/BasePolicies/Governance.md#Meetings
-[jQuery Foundation Base Consensus Seeking Process Policy]: https://github.com/jquery-foundation/TAC/blob/master/BasePolicies/Governance.md#Consensus-Seeking-Process
-[jQuery Foundation Moderation Policy]: https://github.com/jquery-foundation/TAC/blob/master/Moderation-Policy.md
-[jQuery Foundation Code of Conduct]: https://jquery.org/conduct/
+[JS Foundation Base Meetings Policy]: https://github.com/JSFoundation/TAC/blob/master/BasePolicies/Governance.md#Meetings
+[JS Foundation Base Consensus Seeking Process Policy]: https://github.com/JSFoundation/TAC/blob/master/BasePolicies/Governance.md#Consensus-Seeking-Process
+[JS Foundation Moderation Policy]: https://github.com/JSFoundation/TAC/blob/master/Moderation-Policy.md
+[JS Foundation Code of Conduct]: https://js.foundation/conduct/

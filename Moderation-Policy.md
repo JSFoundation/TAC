@@ -1,6 +1,6 @@
 ## Moderation Policy
 
-If you are not a member of the jQuery Foundation owned GitHub Organization in
+If you are not a member of the JS Foundation owned GitHub Organization in
 question and wish to submit a moderation request, please see
 [Requesting Moderation](#requesting-moderation)
 
@@ -17,10 +17,10 @@ question and wish to submit a moderation request, please see
 
 ### Applicability
 
-By default, the [jQuery Foundation Code of Conduct][] defines the moderation
+By default, the [JS Foundation Code of Conduct][] defines the moderation
 process of reported Code of Conduct violations. This policy applies to all
-repositories under the ownership of the jQuery Foundation and all jQuery
-Foundation Working Groups.
+repositories under the ownership of the JS Foundation and all JS Foundation
+Working Groups.
 
 Working Groups and CBs chartered by the TAC may adopt an alternative Moderation
 Policy for any repository under their stewardship so long as:
@@ -44,28 +44,28 @@ then this default policy applies.
 ### Terms
 
 * *Collaborator* refers to any individual with configured access permissions to
-any jQuery Foundation owned GitHub organization or repository. See
+any JS Foundation owned GitHub organization or repository. See
 [GitHub's access permissions documentation][] for more information.
-* *TAC* refers to the [jQuery Foundation Technical Advisory Committee][].
+* *TAC* refers to the [JS Foundation Technical Advisory Committee][].
 * *Post* refers to the content and titles of any issue, pull request, comment or
 wiki page.
 * *Moderate* refers to the act of modifying the content and title of, or
 deleting, any Post for the purpose of correcting or addressing Code of Conduct
 violations.
 * *Ban* refers to the act of blocking an individual GitHub account from any
-further participation in a jQuery Foundation owned GitHub organization or
+further participation in a JS Foundation owned GitHub organization or
 repository.
 * *Requester* refers to an individual requesting Moderation on a Post.
 
 ### Grounds for Moderation
 
 Any Post considered to be in violation of the
-[jQuery Foundation Code of Conduct][] is subject to Moderation.
+[JS Foundation Code of Conduct][] is subject to Moderation.
 
 The [Code of Conduct Committee][] is solely responsible for deciding what
 constitutes inappropriate behavior that may be subject to Moderation (see:
 [Escalation to the CoC Committee][]). The CoC Committee may, if necessary, ask
-the jQuery Foundation Board of Directors for a resolution if consensus can not
+the JS Foundation Board of Directors for a resolution if consensus can not
 be reached.
 
 ### Requesting Moderation
@@ -73,17 +73,17 @@ be reached.
 Anyone may request Moderation of a Post. Requesting Moderation of a Post can be
 accomplished in one of three ways:
 
-* Via the [conduct@jquery.org][] email address,
+* Via the [conduct@js.foundation][] email address,
 * Via private email to individual CoC Committee members,
 * Via a new Post in the same thread as the Post being requested for Moderation.
 
 Note that Collaborators may Moderate non-Collaborator Posts at any time without
 submitting an initial request (see: [Non-Collaborator Posts][]).
 
-Use of the [conduct@jquery.org][] email address -- or private email to
+Use of the [conduct@js.foundation][] email address -- or private email to
 individual CoC Committee members -- is appropriate when the individual
 requesting the Moderation does not feel comfortable directly or publicly making
-the request. All emails sent to the [conduct@jquery.org][] address are forwarded
+the request. All emails sent to the [conduct@js.foundation][] address are forwarded
 to all members of the CoC Committee.
 
 Requests for Moderation that do not appear to have been submitted in good faith
@@ -94,26 +94,26 @@ the CoC Committee, may be ignored.
 
 Before Moderating a Post, Collaborators should carefully consider the possible
 intent of the author. It may be that the author has simply made an error or is
-not yet familiar with the [jQuery Foundation Code of Conduct][]; or it may be
+not yet familiar with the [JS Foundation Code of Conduct][]; or it may be
 that cultural differences exist, or that the author is unaware that certain
 content is considered inappropriate. In such cases, the author should be given
 an opportunity to correct any error that may have been made.
 
-Note, however, that unfamiliarity with the [jQuery Foundation Code of Conduct][]
+Note, however, that unfamiliarity with the [JS Foundation Code of Conduct][]
 does not excuse a Post from Moderation.
 
 ### Guidelines and Requirements
 
-* All Posts are expected to respect the [jQuery Foundation Code of Conduct][].
+* All Posts are expected to respect the [JS Foundation Code of Conduct][].
 * Only Collaborators with commit rights to a given repository may Moderate Posts
 within that repository's issue tracker.
 * The CoC Committee, or in very rare cases the Board of Directors, serves as the
 final arbiter for all Moderation issues (see:
 [Escalation to the CoC Committee][]).
 * Only a TAC, CB or Board of Directors member may Ban an individual from a
-jQuery Foundation owned GitHub organization or repository.
-* Any individual Banned from a jQuery Foundation owned GitHub organization or
-repository will be recommended for exclusion from any jQuery Foundation
+JS Foundation owned GitHub organization or repository.
+* Any individual Banned from a JS Foundation owned GitHub organization or
+repository will be recommended for exclusion from any JS Foundation
 sponsored event or activity.
 * Minor edits to the formatting of a Post or to correct typographical errors are
 not considered to be "Moderation". Such edits and their intent should still be
@@ -128,7 +128,7 @@ request) to modify or remove the Post on their own.
 can be resolved by [Escalation to the CoC Committee][]. In such cases, no
 Moderation action should be taken until a decision by the CoC Committee is made.
 * In extreme circumstances involving either obvious gross violations of the
-[jQuery Foundation Code of Conduct][] or possible compromise of a Collaborator's
+[JS Foundation Code of Conduct][] or possible compromise of a Collaborator's
 GitHub account, the CoC Committee can be consulted to waive the 24 hour grace
 period and dispute process.
 
@@ -140,17 +140,17 @@ Collaborator must:
 
 Explanations of Moderation actions on Collaborator Posts must be provided in:
 * A new post within the original thread, ***or***
-* A message to [conduct@jquery.org][].
+* A message to [conduct@js.foundation][].
 
 Any Collaborator who habitually authors Posts that must be Moderated can be
-Banned from further participation in the jQuery Foundation owned GitHub
+Banned from further participation in the JS Foundation owned GitHub
 organization or repository for an indefinite period of time.
 
 #### Non-Collaborator Posts
 
 Posts authored by non-Collaborators are always subject to immediate Moderation
 by any Collaborator if the content is intentionally disruptive or in violation
-of the [jQuery Foundation Code of Conduct][].
+of the [JS Foundation Code of Conduct][].
 
 When Moderating non-Collaborator Posts, the moderating Collaborator should:
 * Explain the justification for Moderating the post, and
@@ -161,12 +161,11 @@ provided, it should be provided in:
 * The original Post being modified (as replacement or appended content),
 ***or***
 * A new post within the original thread, ***or***
-* A message to [conduct@jquery.org][].
+* A message to [conduct@js.foundation][].
 
 Moderation of Posts authored by non-Collaborators may result in those
-non-Collaborators being Banned from further participation in the jQuery
-Foundation owned GitHub organization or repository for an indefinite period of
-time.
+non-Collaborators being Banned from further participation in the JS Foundation
+owned GitHub organization or repository for an indefinite period of time.
 
 In the case where a GitHub Account appears to have been created with no
 intention to collaborate in good faith, swift actions may be taken without
@@ -183,10 +182,10 @@ any further undue attention to the Post in question.
 ### Escalation to the CoC Committee
 
 Any Moderation issue or dispute can be escalated to the CoC Committee by
-sending a message to [conduct@jquery.org][].
+sending a message to [conduct@js.foundation][].
 
 All Moderation-related decisions follow the processes defined in the
-[jQuery Foundation Code of Conduct][].
+[JS Foundation Code of Conduct][].
 
 Code of Conduct Committee members directly involved in a Moderation issue -- as
 either the Requester or author of the Post in question -- are expected to excuse
@@ -198,11 +197,11 @@ Modifications to this policy are made through normal [TAC motion and vote][].
 Any Collaborator may submit a PR proposing changes to this policy. Those PRs
 must be labeled using the `TAC-agenda` label.
 
-[jQuery Foundation Code of Conduct]: https://jquery.org/conduct/
+[JS Foundation Code of Conduct]: https://js.foundation/conduct/
 [GitHub's access permissions documentation]: https://help.github.com/articles/what-are-the-different-access-permissions/
-[jQuery Foundation Technical Advisory Committee]: https://github.com/jquery-foundation/TAC/
-[Code of Conduct Committee]: https://jquery.org/conduct/committee/
+[JS Foundation Technical Advisory Committee]: https://github.com/JSFoundation/TAC/
+[Code of Conduct Committee]: https://js.foundation/conduct/committee/
 [Escalation to the CoC Committee]: #escalation-to-the-coc-committee
-[conduct@jquery.org]: mailto:conduct@jquery.org
+[conduct@js.foundation]: mailto:conduct@js.foundation
 [Non-Collaborator Posts]: #non-collaborator-posts
-[CB motion and vote]: https://github.com/jquery-foundation/CB/blob/master/CB-Charter.md#section-8-voting
+[TAC motion and vote]: https://github.com/JSFoundation/TAC/blob/master/CB-Charter.md#section-8-voting
