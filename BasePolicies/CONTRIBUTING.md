@@ -1,8 +1,8 @@
-# jQuery Foundation Community Contributing Guide 1.0
+# JS Foundation Community Contributing Guide 1.0
 
 This document describes a very simple process suitable for most projects in the
-jQuery Foundation ecosystem. Projects are encouraged to adopt this whether they
-are hosted in the jQuery Foundation or not.
+JS Foundation ecosystem. Projects are encouraged to adopt this whether they
+are hosted in the JS Foundation or not.
 
 The goal of this document is to create a contribution process that:
 
@@ -53,7 +53,7 @@ review process if they wish.
 
 The default for each contribution is that it is accepted once no committer has
 an objection and it is determined the contributor has signed the
-[jQuery Foundation CLA][]. During review, committers may also request that a
+[JS Foundation CLA][]. During review, committers may also request that a
 specific contributor who is most versed in a particular area gives a "LGTM"
 before the PR can be merged. There is no additional "sign off" process for
 contributions to land. Once all issues brought by committers are addressed it
@@ -100,4 +100,4 @@ standard consensus seeking process to evaluate whether or not to add this new
 member. Members who do not participate consistently at the level of a majority
 of the other members are expected to resign.
 
-[jQuery Foundation CLA]: https://contribute.jquery.org/CLA/
+[JS Foundation CLA]: https://js.foundation/CLA/

@@ -1,6 +1,6 @@
-# jQuery Foundation Working Groups
+# JS Foundation Working Groups
 
-jQuery Foundation Working Groups (WG) are autonomous projects created by the
+JS Foundation Working Groups (WG) are autonomous projects created by the
 Technical Advisory Committee (TAC). A WG may be appropriate when concerns or
 needs cross multiple Foundation Projects or Collaboration Boards and the
 represented Projects wish to coordinate their efforts. WGs may also be formed

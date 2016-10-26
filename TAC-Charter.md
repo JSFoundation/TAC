@@ -6,28 +6,28 @@ The Technical Advisory Committee operates transparently, openly,
 collaboratively, and ethically. Project proposals, timelines, and status must
 not merely be open, but also easily visible to outsiders.
 
-## Section 2. Evolution of jQuery Foundation Governance
+## Section 2. Evolution of JS Foundation Governance
 
 Most large, complex open source communities have both a business and a technical
-governance model. jQuery Foundation's technical leadership contains a Technical
+governance model. JS Foundation's technical leadership contains a Technical
 Advisory Committee ("TAC"), Collaboration Boards ("CB"s), Working Groups ("WG"s)
-and Projects which may represent a single or collection of code bases. jQuery
+and Projects which may represent a single or collection of code bases. JS
 Foundation's business leadership is instantiated in a Board of Directors (the
 "Board”).
 
 This Technical Advisory Committee Charter reflects a balanced role for the TAC
-and the Board in the governance of the jQuery Foundation. The charter amendment
+and the Board in the governance of the JS Foundation. The charter amendment
 process is for the TAC to propose changes using simple majority of the full TAC,
 the proposed changes being subject to review and approval by the Board. The
 Board may additionally make amendments to the TAC charter at any time, though
 the Board does not interfere with day-to-day discussions, votes or meetings of
 the TAC.
 
-## Section 3. Board's Role in Setting jQuery Foundation's Strategic Direction
+## Section 3. Board's Role in Setting JS Foundation's Strategic Direction
 
 The Board sets the overall TAC policy through [Foundation mission and vision
 statements][] as well as within the [Foundation bylaws][]. The policy describes
-the overarching scope of the jQuery Foundation initiatives , technical vision,
+the overarching scope of the JS Foundation initiatives , technical vision,
 and direction. The Board uses the TAC as a delegate body for governing
 high-level technical policy and procedures while remaining within the scope and
 direction of the policies set by the Board.
@@ -39,10 +39,10 @@ terms a member may serve. The TAC will be limited to 25 voting seats and
 membership of the TAC will consist of:
 
 1. One representative from each Collaboration Board.
-2. One representative from each jQuery Foundation Platinum Member organization.
+2. One representative from each JS Foundation Platinum Member organization.
 3. One representative from the Node.js Foundation. See the [Ecosystem
 Mentorship][] section below for details concerning the relationship between the
-jQuery Foundation and the Node.js Foundation.
+JS Foundation and the Node.js Foundation.
 4. Individuals from the greater JS community as appointed by the existing TAC
 and the Board.
 
@@ -78,13 +78,13 @@ available to the community through accessible public postings.
 ## Section 5. Responsibilities and Expectations of the TAC
 
 Subject to such policies as may be set by the Board, the TAC is responsible for
-ensuring collaboration is the driving principle within a Project, between jQuery
-Foundation Projects, and between jQuery Foundation Projects and the broader
+ensuring collaboration is the driving principle within a Project, between JS
+Foundation Projects, and between JS Foundation Projects and the broader
 community. The TAC is also responsible for admitting new projects to the
 mentorship program as well as graduating projects from the mentorship program.
-The TAC is also responsible for mediating technical conflicts between jQuery
+The TAC is also responsible for mediating technical conflicts between JS
 Foundation Projects when attempts to resolve those conflicts within the Project
-and its CB were unsuccessful. The TAC serves as the jQuery Foundation's primary
+and its CB were unsuccessful. The TAC serves as the JS Foundation's primary
 technical liaison body with external open source projects, consortiums and
 groups and is also responsible for technical participation in standards bodies.
 Members of the TAC, or committees consisting of subsets of the TAC membership
@@ -96,15 +96,15 @@ JavaScript community, etc.
 
 ## Section 6. Ecosystem Mentorship
 
-The jQuery Foundation administers a mentorship program through which projects
+The JS Foundation administers a mentorship program through which projects
 may enter the Foundation and through this program, it will support these
 projects in their efforts to implement policies and instill values that foster
 contribution and collaboration from a larger and more diverse set of individuals
 and organizations. The goal of this mentorship program is to ensure that
 projects are well maintained and supported for the long term and are welcoming
 environments that encourage participation. In order to best serve the entire
-JavaScript ecosystem, the jQuery Foundation will formally partner with the
-Node.js Foundation to guide the mentorship program. In order to facilitate this
+JavaScript ecosystem, the JS Foundation will formally partner with the Node.js
+Foundation to guide the mentorship program. In order to facilitate this
 partnership, the Node.js Foundation will have representation on the TAC as
 described in the [Establishment of the TAC][] section above and will provide
 project mentors as they become available
@@ -129,15 +129,15 @@ the project;
 * Stability (e.g. presence of test suites, stable APIs and use of an
 appropriate source-code control system);
 * Predictability of releases;
-* Alignment with the jQuery Foundation's goals and priorities.
+* Alignment with the JS Foundation's goals and priorities.
 
 The CBs, Projects and the entire technical community will follow any processes
 as may be specified by the Board relating to the intake and license compliance
-review of contributions, including the jQuery Foundation CLA and IP Policy.
+review of contributions, including the JS Foundation CLA and IP Policy.
 
 ## Section 8. Responsibilities and Expectations of Projects
 
-jQuery Foundation Projects are self-governing entities. All policies and
+JS Foundation Projects are self-governing entities. All policies and
 procedures for interacting with, contributing to and making decisions within a
 Project are defined, implemented, and documented by that Project’s maintainers
 and community during the mentorship process. Specific technical decisions within
@@ -158,7 +158,7 @@ decisions and responsibilities include but are not limited to:
 
 The CBs, Projects and the entire technical community will follow any processes
 as may be specified by the Board relating to the intake and license compliance
-review of contributions, including the jQuery Foundation CLA and IP Policy.
+review of contributions, including the JS Foundation CLA and IP Policy.
 
 ## Section 9. Decision Making
 
@@ -191,7 +191,7 @@ pass:
 
 ## Section 11. Elections
 
-Leadership roles in the jQuery Foundation's technical organization will be peer
+Leadership roles in the JS Foundation's technical organization will be peer
 elected representatives of the community.
 
 For election of persons (TAC members, TAC Chairperson, CB members, Maintainers,
@@ -218,13 +218,13 @@ will fill those roles in accordance with the limits set forth in the
 
 The TAC will elect from amongst voting TAC members a TAC Chairperson to work on
 building an agenda for TAC meetings and represent the TAC to the Board of
-Directors for a term of one year according to the jQuery Foundation's By-laws.
+Directors for a term of one year according to the JS Foundation's By-laws.
 The TAC shall hold annual elections to select a TAC Chairperson; there are no
 limits on the number of terms a TAC Chairperson may serve.
 
 ## Section 12. Project Roles
 
-The jQuery Foundation Project repositories are maintained by the Projects, their
+The JS Foundation Project repositories are maintained by the Projects, their
 CB and additional Collaborators who are added by the Project on an ongoing
 basis.
 
@@ -262,8 +262,8 @@ repository.
 on the CB or other official role as defined in the Project's governance
 policies.
 
-[Foundation mission and vision statements]: https://jquery.org/mission/
-[Foundation bylaws]: https://jquery.org/bylaws/
+[Foundation mission and vision statements]: https://js.foundation/about/
+[Foundation bylaws]: https://js.foundation/pdf/bylaws.pdf
 [Voting]: #section-10.-voting
 [Elections]: #section-11.-elections
 [Establishment of the TAC]: #section-4.-establishment-of-the-tac

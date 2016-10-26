@@ -1,7 +1,7 @@
-# The jQuery Foundation Technical Governance
+# The JS Foundation Technical Governance
 
-The jQuery Foundation Technical Advisory Committee (TAC) and Collaboration
-Boards (CB) are the technical governing body of the jQuery Foundation. The goals
+The JS Foundation Technical Advisory Committee (TAC) and Collaboration
+Boards (CB) are the technical governing body of the JS Foundation. The goals
 of this technical structure are to:
 
 1. **Separate the business aspects from the technical aspects of the
@@ -33,22 +33,22 @@ that need few changes. Others are looking for help in managing growing code and
 communities. These projects have different needs and the Foundation wants to
 accommodate both.
 
-The TAC also admits all Projects into the jQuery Foundation as well as charters
-all CBs and Working Groups (WG). It also elects a representative to the jQuery
+The TAC also admits all Projects into the JS Foundation as well as charters
+all CBs and Working Groups (WG). It also elects a representative to the JS
 Foundation Board of Directors.
 
-For more details read the [TAC Charter][] adopted by the jQuery Foundation Board
+For more details read the [TAC Charter][] adopted by the JS Foundation Board
 of Directors on <<INSERT DATE>>.
 
-If your project is interested in joining the jQuery Foundation please read the
+If your project is interested in joining the JS Foundation please read the
 [Project Lifecycle.md][] documentation.
 
 ## TAC Members
 
 TAC members are responsible for top level technical community concerns and
-promoting collaboration both within and among the many projects in the jQuery
+promoting collaboration both within and among the many projects in the JS
 Foundation. The role is mostly administrative and is responsible for advocating
-the needs of the technical side of the Foundation to the jQuery Foundation Board
+the needs of the technical side of the Foundation to the JS Foundation Board
 of Directors.
 
 Candidates for membership in the TAC tend to be people who have a competency for
@@ -62,7 +62,7 @@ in the [TAC Charter][].
 ## CBs, Projects and WGs
 
 ### CBs and Projects
-* jQuery Foundation Projects
+* JS Foundation Projects
   * At-large Projects (listed alphabetically)
       * [Chassis][]
       * [Dojo][]
@@ -82,10 +82,10 @@ in the [TAC Charter][].
       * [RequireJS][]
       * [Sizzle][]
 * Mentorship Program Projects
-    * 
+    *
 
 ### At-large Projects
-At-large projects in the jQuery Foundation are a group of projects that do not
+At-large projects in the JS Foundation are a group of projects that do not
 currently belong to a CB. These projects tend to be mature projects in a more
 steady state rather than highly active projects with growing contributor bases.
 These projects may remain in this state indefinitely or may form/join a CB when
@@ -103,23 +103,23 @@ mentorship phase.
 
 ## Policy Change Proposal Process
 
-The jQuery Foundation TAC is chartered, subject to such policies as may be set
+The JS Foundation TAC is chartered, subject to such policies as may be set
 by the Board of Directors, to ensure collaboration is the driving principle
-within a Project, between jQuery Foundation Projects, and between jQuery
-Foundation Projects and the broader community. The TAC is also responsible for
-chartering CBs and WGs. CBs and Working Groups have broad powers of
-self-governance as defined by the policies in their charter.
+within a Project, between JS Foundation Projects, and between JS Foundation
+Projects and the broader community. The TAC is also responsible for chartering
+CBs and WGs. CBs and Working Groups have broad powers of self-governance as
+defined by the policies in their charter.
 
 To propose a change or addition to policies or processes that are intended to
 cover all Projects and Working Groups in the Foundation, a PR should be opened
-in the `jquery-foundation/TAC` repository.
+in the `JSFoundation/TAC` repository.
 
 The pull request can be labeled `TAC-agenda` to request that it be put on the
 agenda for the next TAC meeting.
 
-The jQuery Foundation Board of Directors retains certain rights (especially
+The JS Foundation Board of Directors retains certain rights (especially
 legal considerations). If the TAC endorses a proposal, they will escalate to the
-jQuery Foundation Board of Directors when required to do so.
+JS Foundation Board of Directors when required to do so.
 
 In some cases, existing individual groups have the right to refuse changes to
 their charters. The TAC can not mandate that existing CBs or WGs alter their
@@ -127,16 +127,16 @@ charters. If such a situation arises, the TAC may decide to revoke the group's
 charter.
 
 ## Org Charts
-To illustrate the structure of the jQuery Foundation's governance and technical
+To illustrate the structure of the JS Foundation's governance and technical
 leadership, we have created a [General Org Structure Overview][] chart and will
 add a Detailed Technical Org Structure chart once complete for reference.
 
 ## Credits
-This repository of policies, procedures and information regarding the jQuery
+This repository of policies, procedures and information regarding the JS
 Foundation TAC is based heavily on the
 [Node.js Foundation TSC repository][].
 
-[TAC Charter]: https://github.com/jquery-foundation/TAC/blob/master/TAC-Charter.md
+[TAC Charter]: https://github.com/JSFoundation/TAC/blob/master/TAC-Charter.md
 [Project Lifecycle.md]: Project-Lifecycle.md
 [jQuery]: https://jquery.com
 [Dojo]: https://dojotoolkit.org
