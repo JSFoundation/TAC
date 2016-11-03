@@ -64,32 +64,46 @@ in the [TAC Charter][].
 ### CBs and Projects
 * JS Foundation Projects
   * At-large Projects (listed alphabetically)
-      * [Chassis][]
-      * [Dojo][]
-      * [ESLint][]
-      * [Esprima][]
-      * [Globalize][]
-      * [Grunt][]
-      * [Intern][]
-      * [Jed][]
-      * [jQuery][]
-      * [jQuery Mobile][]
-      * [jQuery UI][]
-      * [Lodash][]
-      * [MessageFormat][]
-      * [PEP][]
-      * [QUnit][]
-      * [RequireJS][]
-      * [Sizzle][]
-* Mentorship Program Projects
-    *
+    * [Chassis][]
+    * [Dojo][]
+    * [ESLint][]
+    * [Esprima][]
+    * [Globalize][]
+    * [Grunt][]
+    * [Intern][]
+    * [Jed][]
+    * [jQuery][]
+    * [jQuery Mobile][]
+    * [jQuery UI][]
+    * [Lodash][]
+    * [MessageFormat][]
+    * [PEP][]
+    * [QUnit][]
+    * [RequireJS][]
+    * [Sizzle][]
+  * Mentorship Program Projects and Mentors
+    * [Appium][]
+      * Brian LeRoux
+    * [Interledger.js][]
+      * TBD
+    * [JerryScript][]
+      * Dave Methvin
+    * [Mocha][]
+      * Mike Sherov
+    * [Moment][]
+      * TBD
+    * [Node-RED][]
+      * Myles Borins
+    * [webpack][]
+      * TBD
 
 ### At-large Projects
 At-large projects in the JS Foundation are a group of projects that do not
 currently belong to a CB. These projects tend to be mature projects in a more
 steady state rather than highly active projects with growing contributor bases.
 These projects may remain in this state indefinitely or may form/join a CB when
-an appropriate fit is determined.
+an appropriate fit is determined through participation in the Mentorship
+Program.
 
 ### Mentors
 Project mentorship is not a technical role. In fact, mentors are discouraged
@@ -156,6 +170,13 @@ Foundation TAC is based heavily on the
 [jQuery UI]: https://jqueryui.com
 [Lodash]: https://lodash.com/
 [RequireJS]: https://requirejs.org/
+[Appium]: http://appium.io
+[Interledger.js]: http://interledgerjs.org
+[JerryScript]: http://jerryscript.net
+[Mocha]: http://mochajs.org
+[Moment]: http://momentjs.com
+[Node-RED]: http://nodered.org
+[webpack]: http://webpack.js.org
 [Working Groups]: WORKING_GROUPS.md
 [General Org Structure Overview]: General-Org-Structure-Overview.pdf
 [Node.js Foundation TSC repository]: https://github.org/nodejs/TSC/
