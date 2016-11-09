@@ -1,4 +1,6 @@
-# Technical Advisory Committee (TAC) Charter
+# Technical Advisory Committee (TAC) Charter v1.0
+
+*Ratified by the JS Foundation Board of Directors on November 9, 2016*
 
 ## Section 1. Guiding Principle.
 

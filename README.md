@@ -37,8 +37,8 @@ The TAC also admits all Projects into the JS Foundation as well as charters
 all CBs and Working Groups (WG). It also elects a representative to the JS
 Foundation Board of Directors.
 
-For more details read the [TAC Charter][] adopted by the JS Foundation Board
-of Directors on <<INSERT DATE>>.
+For more details read the [TAC Charter][] ratified by the JS Foundation Board
+of Directors on November 9, 2016.
 
 If your project is interested in joining the JS Foundation please read the
 [Project Lifecycle.md][] documentation.
