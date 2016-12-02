@@ -95,7 +95,7 @@ in the [TAC Charter][].
     * [Node-RED][]
       * Myles Borins
     * [webpack][]
-      * TBD
+      * Dave Methvin
 
 ### At-large Projects
 At-large projects in the JS Foundation are a group of projects that do not
