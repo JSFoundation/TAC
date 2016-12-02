@@ -91,7 +91,7 @@ in the [TAC Charter][].
     * [Mocha][]
       * Mike Sherov
     * [Moment][]
-      * TBD
+      * Anne-Gaelle Colom
     * [Node-RED][]
       * Myles Borins
     * [webpack][]
