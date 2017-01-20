@@ -85,11 +85,11 @@ in the [TAC Charter][].
     * [Appium][]
       * Brian LeRoux
     * [Interledger.js][]
-      * TBD
+      * Mike Sherov
     * [JerryScript][]
       * Dave Methvin
     * [Mocha][]
-      * Mike Sherov
+      * Adam Ulvi
     * [Moment][]
       * Anne-Gaelle Colom
     * [Node-RED][]
