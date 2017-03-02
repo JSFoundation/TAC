@@ -18,11 +18,6 @@ contributors can be involved in decision making.
 request.
 * A **Committer** is a subset of contributors who have been given write
 access to the repository.
-* A **Collaboration Board (CB)** is a group of committers and other
-representatives from the Project(s) community representing the required
-technical and advisory expertise to guide the Project(s) in policy review and
-enforcement, to encourage openness and a participatory environment and to
-resolve rare technical disputes.
 
 # Logging Issues
 
@@ -41,7 +36,7 @@ Project's Code of Conduct.
 
 Any change to resources in this repository must be through pull requests. This
 applies to all changes to documentation, code, binary files, etc. Even long term
-committers and TAC/CB members must use pull requests.
+committers and TAC members must use pull requests.
 
 No pull request can be merged without being reviewed.
 
@@ -65,8 +60,8 @@ addressing concerns being expressed by discussion, compromise on the proposed
 change, or withdrawal of the proposed change.
 
 If a contribution is controversial and committers cannot agree about how to get
-it to land or if it should land then it should be escalated to the CB. It is
-expected that only a small minority of issues be brought to the CB for
+it to land or if it should land then it should be escalated to the TAC. It is
+expected that only a small minority of issues be brought to the TAC for
 resolution and that discussion and compromise among Committers be the default
 resolution mechanism.
 
@@ -79,25 +74,5 @@ repository.
 Committers are expected to follow this policy and continue to send pull
 requests, go through proper review, and have other Committers merge their pull
 requests.
-
-# CB Process
-
-The CB uses a "consensus seeking" process for issues that are escalated to the
-CB. The group tries to find a resolution that has no open objections among CB
-members. If a consensus cannot be reached that has no objections then a majority
-wins vote is called. It is also expected that the majority of decisions made by
-the CB are via a consensus seeking process and that voting is only used as a
-last-resort.
-
-Resolution may involve returning the issue to Committers with suggestions on how
-to move forward towards a consensus. It is not expected that a meeting of the
-CB will resolve all issues on its agenda during that meeting and may prefer to
-continue the discussion happening among the Committers.
-
-Members can be added to the CB at any time. Any Committer can nominate another
-Committer or other qualified community member to the CB and the CB uses its
-standard consensus seeking process to evaluate whether or not to add this new
-member. Members who do not participate consistently at the level of a majority
-of the other members are expected to resign.
 
 [JS Foundation CLA]: https://js.foundation/CLA/

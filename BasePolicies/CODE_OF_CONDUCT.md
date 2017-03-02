@@ -1,13 +1,12 @@
-## Collaboration Board, Working Group and Project Code of Conduct
+## Working Group and Project Code of Conduct
 
-Every Collaboration Board (CB), Working Group (WG) or other defined governing
-body must have a Code of Conduct. By default, all repositories under the JS
-Foundation owned GitHub organizations fall under the
-[JS Foundation Code of Conduct][], but CBs, WGs and other defined governing
-bodies can choose to define their own alternative policy. If the governing body
-does choose it's own Code of Conduct, it must be documented in a
-`CODE_OF_CONDUCT.md` file located in the root of any repository under their
-stewardship.
+Every Working Group (WG) or other defined governing body must have a Code of
+Conduct. By default, all repositories under the JS Foundation owned GitHub
+organizations fall under the [JS Foundation Code of Conduct][], but WGs and
+other defined governing bodies can choose to define their own alternative
+policy. If the governing body does choose it's own Code of Conduct, it must be
+documented in a `CODE_OF_CONDUCT.md` file located in the root of any repository
+under their stewardship.
 
 Note that the Code of Conduct adopted by any governing body will be evaluated by
 the TAC prior to ratifying the proposed charter. If that Code of Conduct is
@@ -24,3 +23,4 @@ body's repository. Should the governing body choose not to adopt the recommended
 changes, the governing body's charter may be revoked.
 
 [JS Foundation Code of Conduct]: https://js.foundation/conduct/
+

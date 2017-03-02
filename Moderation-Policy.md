@@ -22,16 +22,16 @@ process of reported Code of Conduct violations. This policy applies to all
 repositories under the ownership of the JS Foundation and all JS Foundation
 Working Groups.
 
-Working Groups and CBs chartered by the TAC may adopt an alternative Moderation
-Policy for any repository under their stewardship so long as:
-* The Moderation Policy is openly documented as part of the Working Group or
-CB Charter and;
+Working Groups chartered by the TAC may adopt an alternative Moderation Policy
+for any repository under their stewardship so long as:
+* The Moderation Policy is openly documented as part of the Working Group
+Charter and;
 * It includes provisions for clearly and openly documenting Moderation actions
 taken.
 
 If a particular repository can be considered to fall under the stewardship of
-multiple Working Groups (or CBs) that have adopted different Moderation
-Policies, they can choose to either:
+multiple Working Groups that have adopted different Moderation Policies, they
+can choose to either:
 * Decide between themselves which Moderation Policy will be in effect for the
 repository in question, or
 * Ask the TAC to determine which Moderation Policy should apply.
@@ -110,8 +110,8 @@ within that repository's issue tracker.
 * The CoC Committee, or in very rare cases the Board of Directors, serves as the
 final arbiter for all Moderation issues (see:
 [Escalation to the CoC Committee][]).
-* Only a TAC, CB or Board of Directors member may Ban an individual from a
-JS Foundation owned GitHub organization or repository.
+* Only a TAC or Board of Directors member may Ban an individual from a JS
+Foundation owned GitHub organization or repository.
 * Any individual Banned from a JS Foundation owned GitHub organization or
 repository will be recommended for exclusion from any JS Foundation
 sponsored event or activity.
@@ -144,7 +144,7 @@ Explanations of Moderation actions on Collaborator Posts must be provided in:
 
 Any Collaborator who habitually authors Posts that must be Moderated can be
 Banned from further participation in the JS Foundation owned GitHub
-organization or repository for an indefinite period of time.
+organizations or repositories for an indefinite period of time.
 
 #### Non-Collaborator Posts
 
@@ -205,3 +205,4 @@ must be labeled using the `TAC-agenda` label.
 [conduct@js.foundation]: mailto:conduct@js.foundation
 [Non-Collaborator Posts]: #non-collaborator-posts
 [TAC motion and vote]: https://github.com/JSFoundation/TAC/blob/master/CB-Charter.md#section-8-voting
+
