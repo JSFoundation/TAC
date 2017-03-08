@@ -119,6 +119,10 @@ The JS Foundation selects Projects for admission as mentors become available.
 You may apply at any time and the TAC and available mentors will help improve
 your application while awaiting the next available approval phase.
 
+### Graduation
+
+Projects, in cooperation with their mentor, may apply to graduate from the mentorship program at any time when they feel they are in compliance with the requirements, policies and guidelines as set forth by the TAC and their mentor. To apply, a project should update the contents of their original application to include any changes they have made to their Project during the mentorship process and submit that as a Pull Request to the TAC repo's "Projects" folder and also move their Project name from the Mentorship Projects section to the Graduate Projects section of the TAC repo README. A Project will be considered graduated from the Mentorship Program when this PR has been merged by the TAC.
+
 [mentor]:https://github.com/JSFoundation/TAC/blob/master/README.md#mentors
 [Proposal]: #applying-to-join
 [Consensus Seeking]: https://en.wikipedia.org/wiki/Consensus-seeking_decision-making
