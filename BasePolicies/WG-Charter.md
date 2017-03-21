@@ -42,26 +42,26 @@ planned membership decision is being made, then their consent is assumed.
 
 ### Meetings
 
-The [JS Foundation Base Meetings Policy][] applies to this CB.
+The [JS Foundation Base Meetings Policy][] applies to this WG.
 
 ### Consensus Seeking Process
 
-The [JS Foundation Base Consensus Seeking Process Policy][] applies to this
-CB.
+The [JS Foundation Base Consensus Seeking Process Policy][] applies to this WG.
 
 ### Contribution Policy
 
 The *[insert WG name]* GitHub repository is maintained by the WG membership.
 
-Modifications of the contents of the WG repository are made on a collaborative basis. Anybody with a GitHub account
-may propose a modification via pull request and it will be considered by the
-Collaborators. All pull requests must be reviewed and accepted by a Collaborator
-with sufficient expertise who is able to take full responsibility for the
-change. In the case of pull requests proposed by an existing Collaborator, an
-additional Collaborator is required for sign-off. Consensus should be sought if
-additional Collaborators participate and there is disagreement around a
-particular modification. See _Consensus Seeking Process_ above for further
-detail on the consensus model used for governance.
+Modifications of the contents of the WG repository are made on a collaborative
+basis. Anybody with a GitHub account may propose a modification via pull request
+and it will be considered by the Collaborators. All pull requests must be
+reviewed and accepted by a Collaborator with sufficient expertise who is able to
+take full responsibility for the change. In the case of pull requests proposed
+by an existing Collaborator, an additional Collaborator is required for
+sign-off. Consensus should be sought if additional Collaborators participate and
+there is disagreement around a particular modification. See
+_Consensus Seeking Process_ above for further detail on the consensus model used
+for governance.
 
 All proposed changes to this charter or any other WG process or policy document
 must be elevated to the WG for discussion before the change is accepted.
@@ -83,3 +83,4 @@ The [JS Foundation Code of Conduct][] applies to this WG.
 [JS Foundation Base Consensus Seeking Process Policy]: https://github.com/JSFoundation/TAC/blob/master/BasePolicies/Governance.md#Consensus-Seeking-Process
 [JS Foundation Moderation Policy]: https://github.com/JSFoundation/TAC/blob/master/Moderation-Policy.md
 [JS Foundation Code of Conduct]: https://js.foundation/conduct/
+

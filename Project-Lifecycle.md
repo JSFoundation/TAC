@@ -3,15 +3,14 @@
 ## Project Definition
 
 The JS Foundation hosts several Projects. These Projects are autonomous from
-each other. Projects are governed by their Collaboration Board (CB) which are
-chartered by the JS Foundation Technical Advisory Committee (TAC), their
-Maintainers, or by another leadership structure as defined in their governance
-policies. The TAC also charters its own Working Groups for Foundation-wide
-and/or cross-CB and cross-Project initiatives.
+each other. Projects are governed by their Maintainers with policy and
+procedure guidance from the JS Foundation Technical Advisory Committee (TAC) or
+by another leadership structure as defined in their governance policies. The TAC
+also charters its own Working Groups for Foundation-wide and/or cross-Project
+initiatives.
 
-CBs may nominate a representative to be elected to the TAC. CBs with
-*mentorship* status are not granted a seat on the TAC until they have graduated
-from the mentorship program.
+Projects that have graduated from the mentorship program may nominate a
+representative to be appointed to the TAC.
 
 ## Mentorship
 
@@ -29,21 +28,19 @@ project achieve these goals. Therefore, the requirements for graduating from
 mentorship are based on metrics that demonstrate success in terms of these
 values. These metrics are:
 
-* CB or other defined governing body is 5 members or greater and the governing
-body must have at least 1 representative from each Project when multiple
-projects are represented.
-* No more than 1/3 of the CB or other defined governing body is affiliated with
-the same employer.
+* Project's defined governing body is 5 members or greater
+* No more than 1/3 of the defined governing body is affiliated with the same
+employer.
 * No more than 1/3 of any Project is affiliated with the same employer.
 * The decision making and release process is documented and publicly accessible.
 * Other metrics as defined by the applying Project during the application
-process
+process in cooperation with their mentor
 
-A CB and its Projects may apply to graduate from mentorship at any time by
-calling for a vote in the TAC.
+A Project may apply to graduate from mentorship at any time by calling for a
+vote in the TAC.
 
-While a Project is under mentorship, it is assigned at least 2 [mentors][] who
-are responsible for working with the Project to adopt policies and gain the
+While a Project is under mentorship, it is assigned at least 1 [mentor][] who
+is responsible for working with the Project to adopt policies and gain the
 health and contributorship it will need in order to graduate from mentorship.
 The mentor list is nominated and approved by the TAC and may be larger than the
 TAC.
@@ -58,12 +55,12 @@ applying to enter the Foundation. Exceptions may be made to this rule for
 younger projects that have shown potential or have been created in response to
 existing Foundation goals on a case-by-case basis at the TAC's discretion.
 
-## CB and Working Group Requirements
+## Working Group Requirements
 
-All CBs, WGs and other project level governing bodies, are expected to operate
-in a transparent manner. Decisions must be made publicly through a documented
-public process managed by each and each governing body must use a participatory
-decision making process.
+All WGs and other project level governing bodies are expected to operate in a
+transparent manner. Decisions must be made publicly through a documented public
+process managed by each governing body and must use a participatory decision
+making process.
 
 ### Security
 
@@ -72,12 +69,13 @@ Foundation's security team triages issues sent to security@js.foundation.
 
 ## Decision Making Process
 
-All CBs, WGs and other project level governing bodies must follow a
+All WGs and other project level governing bodies must follow a
 [Consensus Seeking][] process and are responsible for documenting and keeping up
 to date their current processes and practices.
 
-Each Project may nominate a representative for election to the JS Foundation
-TAC or vote to abstain from representation on the TAC.
+Each Project that has graduated from the mentorship program may nominate a
+representative for appointment to the JS Foundation TAC or choose to abstain
+from representation on the TAC.
 
 ## Applying to join
 
@@ -96,7 +94,6 @@ and community.
 * Existing IP Policy and relevant intellectual property (trademarks,
   domain names, etc).
 * List of initial Project Collaborators and Maintainers.
-* List of potential CB member(s) if forming or joining an existing CB.
 * List of initial Working Groups, if any.
 * Prior to being admitted, the project must include:
  * [CLA][]
@@ -112,20 +109,24 @@ request.
 
 ### Approved Licenses
 
-The Foundation, by default, will accept the Apache2 license for any project
+The Foundation, by default, will accept the Apache 2.0 license for any project
 joining the Foundation. Other licenses may be accepted on a case-by-case basis.
 
 ### Admittance
 
-The JS Foundation selects Projects for admission as mentors become
-available.
+The JS Foundation selects Projects for admission as mentors become available.
 
 You may apply at any time and the TAC and available mentors will help improve
 your application while awaiting the next available approval phase.
 
-[mentors]:https://github.com/JSFoundation/TAC/blob/master/README.md#mentors
+### Graduation
+
+Projects, in cooperation with their mentor, may apply to graduate from the mentorship program at any time when they feel they are in compliance with the requirements, policies and guidelines as set forth by the TAC and their mentor. To apply, a project should update the contents of their original application to include any changes they have made to their Project during the mentorship process and submit that as a Pull Request to the TAC repo's "Projects" folder and also move their Project name from the Mentorship Projects section to the Graduate Projects section of the TAC repo README. A Project will be considered graduated from the Mentorship Program when this PR has been merged by the TAC.
+
+[mentor]:https://github.com/JSFoundation/TAC/blob/master/README.md#mentors
 [Proposal]: #applying-to-join
 [Consensus Seeking]: https://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [CLA]: https://js.foundation/CLA/
 [approved license]: #approved-licenses
 [Code of Conduct]: https://js.foundation/conduct/
+

@@ -1,8 +1,7 @@
 # The JS Foundation Technical Governance
 
-The JS Foundation Technical Advisory Committee (TAC) and Collaboration
-Boards (CB) are the technical governing body of the JS Foundation. The goals
-of this technical structure are to:
+The JS Foundation Technical Advisory Committee (TAC) is the technical governing
+body of the JS Foundation. The goals of this technical structure are to:
 
 1. **Separate the business aspects from the technical aspects of the
 Foundation.**  
@@ -34,8 +33,8 @@ communities. These projects have different needs and the Foundation wants to
 accommodate both.
 
 The TAC also admits all Projects into the JS Foundation as well as charters
-all CBs and Working Groups (WG). It also elects a representative to the JS
-Foundation Board of Directors.
+all Working Groups (WG). It also elects a representative to the JS Foundation
+Board of Directors.
 
 For more details read the [TAC Charter][] ratified by the JS Foundation Board
 of Directors on November 9, 2016.
@@ -53,15 +52,15 @@ of Directors.
 
 Candidates for membership in the TAC tend to be people who have a competency for
 community management and a high tolerance and patience for process minutiae as
-the TAC delegates most of its responsibilities to other Projects, CBs and
-Working Groups.
+the TAC delegates most of its responsibilities to other Projects and Working
+Groups.
 
 The number of TAC members, term lengths and additional information can be found
 in the [TAC Charter][].
 
-## CBs, Projects and WGs
+## Projects and WGs
 
-### CBs and Projects
+### Projects
 * JS Foundation Projects
   * At-large Projects (listed alphabetically)
     * [Chassis][]
@@ -98,12 +97,12 @@ in the [TAC Charter][].
       * Dave Methvin
 
 ### At-large Projects
-At-large projects in the JS Foundation are a group of projects that do not
-currently belong to a CB. These projects tend to be mature projects in a more
-steady state rather than highly active projects with growing contributor bases.
-These projects may remain in this state indefinitely or may form/join a CB when
-an appropriate fit is determined through participation in the Mentorship
-Program.
+At-large projects in the JS Foundation are a group of projects that have not
+gone through the mentorship program. These projects tend to be mature projects
+in a more steady state rather than highly active projects with growing
+contributor bases. These projects may remain in this state indefinitely or may
+apply to the Mentorship Program if they feel it would benefit their project to
+do so.
 
 ### Mentors
 Project mentorship is not a technical role. In fact, mentors are discouraged
@@ -121,8 +120,8 @@ The JS Foundation TAC is chartered, subject to such policies as may be set
 by the Board of Directors, to ensure collaboration is the driving principle
 within a Project, between JS Foundation Projects, and between JS Foundation
 Projects and the broader community. The TAC is also responsible for chartering
-CBs and WGs. CBs and Working Groups have broad powers of self-governance as
-defined by the policies in their charter.
+WGs. Working Groups have broad powers of self-governance as defined by the
+policies in their charter.
 
 To propose a change or addition to policies or processes that are intended to
 cover all Projects and Working Groups in the Foundation, a PR should be opened
@@ -136,9 +135,8 @@ legal considerations). If the TAC endorses a proposal, they will escalate to the
 JS Foundation Board of Directors when required to do so.
 
 In some cases, existing individual groups have the right to refuse changes to
-their charters. The TAC can not mandate that existing CBs or WGs alter their
-charters. If such a situation arises, the TAC may decide to revoke the group's
-charter.
+their charters. The TAC can not mandate that existing WGs alter their charters.
+If such a situation arises, the TAC may decide to revoke the group's charter.
 
 ## Org Charts
 To illustrate the structure of the JS Foundation's governance and technical
@@ -147,7 +145,7 @@ add a Detailed Technical Org Structure chart once complete for reference.
 
 ## Credits
 This repository of policies, procedures and information regarding the JS
-Foundation TAC is based heavily on the
+Foundation TAC was inspired by the
 [Node.js Foundation TSC repository][].
 
 [TAC Charter]: https://github.com/JSFoundation/TAC/blob/master/TAC-Charter.md
@@ -180,3 +178,4 @@ Foundation TAC is based heavily on the
 [Working Groups]: WORKING_GROUPS.md
 [General Org Structure Overview]: General-Org-Structure-Overview.pdf
 [Node.js Foundation TSC repository]: https://github.org/nodejs/TSC/
+
