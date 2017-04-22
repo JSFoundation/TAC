@@ -14,7 +14,7 @@ All metrics are for the main GitHub repo/project (fine-uploader) unless otherwis
 * GitHub forks: 1,560
 * GitHub watchers: 340
 * npm downloads per month: ~19,000
-* direct from GitHub downloads of v5.14.2 (releases 16 days ago): ~1,800
+* direct from GitHub downloads of v5.14.2 (released 16 days ago): ~1,800
 * bower downloads per month: unknown
 * GitHub repo view per day: ~1,000
 * total issues opened since inception: 1,820
