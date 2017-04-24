@@ -39,7 +39,7 @@ Pull-request based. I, the maintainer, review all PRs and merge appropriate upda
 
 * Issues: Github issues
 * Forums: GitHub issues
-* GitHub org: FineUploader
+* GitHub org: [FineUploader](https://github.com/FineUploader)
 * https://fineuploader.com: GitHub pages + CloudFlare
 * https://docs.fineUploader.com: GitHub pages + CloudFlare + proprietary markdown parser (see docfu repo)
 * https://blog.fineuploader.com: Wordpress
