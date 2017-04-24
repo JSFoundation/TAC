@@ -13,9 +13,10 @@ All metrics are for the main GitHub repo/project (fine-uploader) unless otherwis
 * GitHub stars: 6,840
 * GitHub forks: 1,560
 * GitHub watchers: 340
-* npm downloads per month: ~19,000
+* [npm](https://www.npmjs.com/package/fine-uploader) downloads per month: ~19,000
 * direct from GitHub downloads of v5.14.2 (released 16 days ago): ~1,800
-* bower downloads per month: unknown
+* [cdnjs](https://cdnjs.com/libraries/file-uploader) downloads per month: unknown
+* [bower](https://github.com/FineUploader/bower-dist) downloads per month: unknown
 * GitHub repo view per day: ~1,000
 * total issues opened since inception: 1,820
 * total Stack Overflow questions tagged fine-uploader: 876
@@ -31,7 +32,7 @@ None, at the moment - single dedicated maintainer only.
 
 ## Current contribution process
 
-Pull-request based. I, the maintainer, review all PRs and merge appropriate updates after a code review, assuming tests and documentation is included.
+Pull-request based. I, the maintainer, review all PRs and merge appropriate updates after a code review, assuming tests and documentation is included. Non-maintainer contribution numbers have been quite high as of late.
 
 ## List of current tools in use by the project (forums, issue trackers, GitHub orgs, etc)
 
