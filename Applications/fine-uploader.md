@@ -14,10 +14,11 @@ All metrics are for the main GitHub repo/project (fine-uploader) unless otherwis
 * GitHub forks: 1,560
 * GitHub watchers: 340
 * [npm](https://www.npmjs.com/package/fine-uploader) downloads per month: ~19,000
-* direct from GitHub downloads of v5.14.2 (released 16 days ago): ~1,800
+* [direct from GitHub downloads of v5.14.2](https://github.com/FineUploader/fine-uploader/releases/tag/5.14.2) (released 16 days ago): ~1,800
 * [cdnjs](https://cdnjs.com/libraries/file-uploader) downloads per month: unknown
 * [bower](https://github.com/FineUploader/bower-dist) downloads per month: unknown
-* GitHub repo view per day: ~1,000
+* GitHub repo views per day: ~1,000
+* GitHub repo clones in the last 2 weeks: 83
 * total issues opened since inception: 1,820
 * total Stack Overflow questions tagged fine-uploader: 876
 * Alexa.com global site rank for fineuploader.com: 150k
