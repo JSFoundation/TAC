@@ -107,6 +107,8 @@ Applications directory. Proposals do not have to be complete to be submitted,
 the TAC can work with the authors and their respective communities in each pull
 request.
 
+In addition to the pull request, please send a brief email to projects@js.foundation to introduce yourself and give us an additional communcation channel in case there are any sensitive topics to discuss around your application. Also, if you or your organizations would prefer to discuss the application in private before sending a public PR application, you may submit your application as a document, gist, etc to projects@js.foundation and we will discuss the application with you there.
+
 ### Approved Licenses
 
 The Foundation, by default, will accept the Apache 2.0 license for any project
