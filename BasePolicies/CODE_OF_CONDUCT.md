@@ -22,5 +22,4 @@ that further corrections be made by opening an issue or a PR in the governing
 body's repository. Should the governing body choose not to adopt the recommended
 changes, the governing body's charter may be revoked.
 
-[JS Foundation Code of Conduct]: https://js.foundation/conduct/
-
+[JS Foundation Code of Conduct]: https://js.foundation/community/code-of-conduct
