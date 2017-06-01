@@ -194,6 +194,7 @@ Commit rights are currently granted to anyone:
  
 ## Initial Project Collaborators and Maintainers
 
+- Amber Costly
 - Angelina Fabbro
 - Brian LeRoux
 - Jen Fong-Adwent
