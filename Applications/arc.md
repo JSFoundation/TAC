@@ -18,10 +18,11 @@ In December 2015, we began development of begin.com, a productivity application 
  
 We decided to completely adopt the cloud and functions as a service into our application architecture, estimating that during the expected timeline of our development, both would mature significantly and likely convey an advantage for getting to and competing in an already fiercely established market. 
  
-However, in the first year of our development we found tooling in the cloud ecosystem to be largely immature, vendor specific, and, worse, too often closely emulating defunct server metaphors. In order to build our product, we eventually came to the determination that we needed tooling capable of addressing the specific kinds of problems a microservices-based application architecture will inevitably surface. 
+However, in the first year of our development we found tooling in the cloud ecosystem to be largely immature, vendor specific, and, worse, too often closely emulating defunct server metaphors. In order to build our product, we eventually came to the determination that we needed tooling capable of addressing the specific kinds of problems a microservices style application architecture will inevitably surface. 
  
-Fast forward to June of 2017: begin.com is in alpha, and we’re in a position to share our experiences in building microservices-based applications, and to open and donate our related tooling with the broader free/open source software developer community.
-We believe that architectural and infrastructure tooling should be open source for a host of reasons. It is proven that many eyeballs make bugs (and security holes) very shallow. A large community also brings the potential of cloud platform portability. However most importantly, philosophically we believe the existence of a devops focused, vendor-neutral microservices tooling solution, with open and transparent community governance, can be a rising tide that will lift all ships.
+Fast forward to June of 2017: begin.com is in alpha, and we’re in a position to share our experiences in building with *functions as a service*, and to open and donate our related tooling with the broader free/open source software developer community.
+
+We believe that architectural and infrastructure tooling should be open source for a host of reasons. It is proven that many eyeballs make bugs (and security holes) very shallow. A large community also brings the potential of cloud platform portability. However most importantly, philosophically we believe the existence of a devops focused, vendor-neutral *functions as a service* tooling solution, with open and transparent community governance, can be a rising tide that will lift all ships.
  
 ## Metrics
  
