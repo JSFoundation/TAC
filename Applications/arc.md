@@ -1,9 +1,9 @@
 *JS Foundation Project Proposal*
 
 # arc
- 
-> `arc` is a text format and collection of tools for enabling ***architecture as text*** for repeatable, disposable, and remixable _functions as a service_.
- 
+
+> `arc` is a format for defining **cloud functions**, with tools to deploy, test, and manage them in a vendor-neutral way
+
 - Version control your app architecture and generate cloud infrastructure in `.arc` text files
 - Rapidly provision, deliver and deploy cloud functions
 - Iterate faster with more frequent and lower-risk releases
