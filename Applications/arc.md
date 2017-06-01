@@ -31,7 +31,7 @@ Some portions of what we’re now calling `arc` have been open source for a whil
 - https://github.com/smallwins/lambda
 - https://npm-stat.com/charts.html?package=%40smallwins%2Flambda
  
-However, we think that’s totally ok, and that the effort is still worth our while. It’s very early days for the idea of _functions as a service_, and we believe the JS Foundation is the right place to grow this solution. 
+However, that effort taught us a lot about *functions as a service*, evolved our understanding and established the `.arc` solving real problems from direct experience. It’s very early days for the idea of _functions as a service_, and we believe the JS Foundation is the right place to grow this solution. 
  
 ### Ecosystem
  
@@ -129,7 +129,7 @@ It gets better. `arc-create` would also ensure the corosponding lambdas are crea
 
 ##### API Gateway Invoked Lambdas
 
-Remember, these lambdas are just generated infrastructure for your code and `arc-deploy` only deploys to `staging` lambdas by default. (Deploying to `production` lambdas takes an extra step.)
+Remember, these lambdas are just generated infrastructure for your code and `arc-deploy` only deploys to `staging` lambdas by default. (Deploying to `production` lambdas takes an extra step.) Otherwise thing of them as simple http handlers. Forcing each one to handle a single verb/route keeps them focused, with a deliberately small code footprint; thusly, these lambdas are fast _and_ easy to understand.
 
 - `hello-world-staging-get-index`
 - `hello-world-staging-get-hello`
@@ -155,7 +155,7 @@ API Gateway based `@html` lambda route handlers work very similarily to Express.
 - `hello-world-staging-hit-counter`
 - `hello-world-production-hit-counter`
 
-These lambdas are subscribed to a corosponding SNS topic that can be invoked by any other lambda programatically by publishing a JSON payload to that topic. Pub sub!
+These lambdas are subscribed to a corosponding SNS topic that can be invoked by any other lambda programatically by publishing a JSON payload to that topic. Pub sub! (Which happens to be great for many things: from building bots to long running background tasks.)
 
 ##### DynamoDB Tables 
 
@@ -164,7 +164,7 @@ These lambdas are subscribed to a corosponding SNS topic that can be invoked by 
 - `arc-staging-sessions`
 - `arc-production-sessions`
 
-> Additionally `.arc` supports DynamoDB table indexes and lambdas triggered by insert, update and delete events.
+> Additionally `.arc` supports DynamoDB table indexes and lambdas triggered by insert, update and delete events from generated tables.
 
 ---
 
@@ -181,11 +181,13 @@ Commit rights are currently granted to anyone:
 3. Demonstrates alignment with the project values
 4. Agrees to the Code of Conduct and Contribution Guidelines
  
-## Current Tooling and Infra
+## Current Project Tooling and Infra
 
-- Github
-- Codeship
-- npm 
+- Github repos for revision control and issue tracking
+- Slack for chatops
+- Codeship for continuous integration
+- npm for distribution
+- AWS for hosting the docs site
  
 ## Initial Project Collaborators and Maintainers
 
@@ -195,6 +197,7 @@ Commit rights are currently granted to anyone:
 - Jen Fong-Adwent
 - Kristofer Joseph
 - Ryan Block
+- Spencer Kelly
  
 ## Existing IP
 
