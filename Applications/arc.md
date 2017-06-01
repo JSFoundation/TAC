@@ -127,11 +127,6 @@ likes
 
 It gets better. `arc-create` would also ensure the corosponding lambdas are created, endpoints wired, permissions set and immediately ready for deployment to two identical environments for `staging` and `production`. You can delete the infrastructure anytime and re-run `arc-create` to regenerate it from your local source. The `.arc` above would generate the following infra:
 
-##### API Gateway APIs
-
-- `hello-world-staging`
-- `hello-world-production`
-
 ##### API Gateway Invoked Lambdas
 
 Remember, these lambdas are just generated infrastructure for your code and `arc-deploy` only deploys to `staging` lambdas by default. (Deploying to `production` lambdas takes an extra step.)
@@ -153,7 +148,7 @@ Remember, these lambdas are just generated infrastructure for your code and `arc
 - `hello-world-production-post-api-likes-000likeID`
 - `hello-world-production-post-api-likes-000likeID-delete`
 
-`@html` lambda route handlers work very similarily to Express. Responses can be one of 200, 302, 404 or 500 status codes. Sessions are supported by default. `@json` works the same (except `content-type` is `application/json` instead of `html/text`).
+API Gateway based `@html` lambda route handlers work very similarily to Express. Responses can be one of `200`, `302`, `403`, `404` or `500` status codes. Sessions are supported by default. `@json` works the same (except `content-type` is `application/json` instead of `html/text`).
  
 ##### SNS Event Triggered Lambdas
 
