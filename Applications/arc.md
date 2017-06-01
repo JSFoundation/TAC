@@ -167,7 +167,7 @@ It gets better. `arc-create` would also ensure the corosponding lambdas are crea
 
 ---
 
-This is getting a lot of finicky configuration work done very quickly. Isolation of the runtime infrastructure between `staging` and `production` makes deployment trivially automatable and worry free. The architecture is safely revisioned in `.arc` and easily reproduced (which can be helpful across availability zones or even for just spinning up a disposable demo version of an app).
+This is getting a lot of finicky configuration work done very quickly. Initial creates of an entire stack can take a few minutes but subsequent deployments are in seconds with zero downtime. Isolation of the runtime infrastructure between `staging` and `production` makes deployment trivially automatable and worry free. The architecture is safely revisioned in `.arc` and easily reproduced which can be helpful for deploying across availability zones or even for just spinning up a disposable demo version of an app. The `.arc` format itself is extremely terse, self documenting while remaining totally vendor neutral.
 
 ## Current Governance and Contribution Policy
 
