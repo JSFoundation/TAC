@@ -132,9 +132,9 @@ It gets better. `arc-create` would also ensure the corosponding lambdas are crea
 - `hello-world-staging`
 - `hello-world-production`
 
-`@html` lambda route handlers work very similarily to Express. Responses can be one of 200, 302, 404 or 500 status codes. Sessions are supported by default. `@json` works the same (except `content-type` is `application/json` instead of `html/text`).
-
 ##### API Gateway Invoked Lambdas
+
+Remember, these lambdas are just generated infrastructure for your code and `arc-deploy` only deploys to `staging` lambdas by default. (Deploying to `production` lambdas takes an extra step.)
 
 - `hello-world-staging-get-index`
 - `hello-world-staging-get-hello`
@@ -152,18 +152,24 @@ It gets better. `arc-create` would also ensure the corosponding lambdas are crea
 - `hello-world-production-post-api-likes`
 - `hello-world-production-post-api-likes-000likeID`
 - `hello-world-production-post-api-likes-000likeID-delete`
+
+`@html` lambda route handlers work very similarily to Express. Responses can be one of 200, 302, 404 or 500 status codes. Sessions are supported by default. `@json` works the same (except `content-type` is `application/json` instead of `html/text`).
  
 ##### SNS Event Triggered Lambdas
 
 - `hello-world-staging-hit-counter`
 - `hello-world-production-hit-counter`
 
-##### DynamoDB Tables 
+These lambdas are subscribed to a corosponding SNS topic that can be invoked by any other lambda programatically by publishing a JSON payload to that topic. Pub sub!
 
-> Additionally `.arc` supports DynamoDB table indexes and lambdas triggered by insert, update and delete events.
+##### DynamoDB Tables 
 
 - `hello-world-staging-likes`
 - `hello-world-producion-likes`
+- `arc-staging-sessions`
+- `arc-production-sessions`
+
+> Additionally `.arc` supports DynamoDB table indexes and lambdas triggered by insert, update and delete events.
 
 ---
 
