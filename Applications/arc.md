@@ -104,7 +104,7 @@ likes
   likeID *String
 ```
 
-`arc-create` is an npm script. if you add it and `npm run create` the `.arc` file above would generate the following local code:
+`arc-create` is an installable npm script. Once in your project with `.arc` file above `npm run create` generates the following local code:
 
 ```
 /
@@ -125,11 +125,11 @@ likes
 '-package.json
 ```
 
-It gets better. `arc-create` would also ensure the corosponding lambdas are created, endpoints wired, permissions set and immediately ready for deployment to two identical environments for `staging` and `production`. You can delete the infrastructure anytime and re-run `arc-create` to regenerate it from your local source. The `.arc` above would generate the following infra:
+`arc-create` also ensures the corosponding lambdas are created, endpoints wired, permissions set and immediately ready for deployment to two identical environments for `staging` and `production`. You can delete the infrastructure anytime and re-run `arc-create` to regenerate it from your local source. 
+
+The `.arc` above generates the following infra:
 
 ##### API Gateway Invoked Lambdas
-
-Remember, these lambdas are just generated infrastructure for your code and `arc-deploy` only deploys to `staging` lambdas by default. (Deploying to `production` lambdas takes an extra step.) Otherwise thing of them as simple http handlers. Forcing each one to handle a single verb/route keeps them focused, with a deliberately small code footprint; thusly, these lambdas are fast _and_ easy to understand.
 
 - `hello-world-staging-get-index`
 - `hello-world-staging-get-hello`
@@ -148,7 +148,7 @@ Remember, these lambdas are just generated infrastructure for your code and `arc
 - `hello-world-production-post-api-likes-000likeID`
 - `hello-world-production-post-api-likes-000likeID-delete`
 
-API Gateway based `@html` lambda route handlers work very similarily to Express. Responses can be one of `200`, `302`, `403`, `404` or `500` status codes. Sessions are supported by default. `@json` works the same (except `content-type` is `application/json` instead of `html/text`).
+Remember, these lambdas are generated infrastructure and really just deployment targets for your code. `arc-deploy` deploys everything in `./src` to `staging` lambdas by default. (Deploying to `production` lambdas takes an extra step.) API Gateway based `@html` lambda route handlers work very similarily to Express. Responses can be one of `200`, `302`, `403`, `404` or `500` status codes. Sessions are supported by default. `@json` works the same (except `content-type` is `application/json` instead of `html/text`).
  
 ##### SNS Event Triggered Lambdas
 
@@ -168,7 +168,7 @@ These lambdas are subscribed to a corosponding SNS topic that can be invoked by 
 
 ---
 
-This is getting a lot of finicky configuration work done very quickly. Initial creates of an entire stack can take a few minutes but subsequent deployments are in seconds with zero downtime. Isolation of the runtime infrastructure between `staging` and `production` makes deployment trivially automatable and worry free. The architecture is safely revisioned in `.arc` and easily reproduced which can be helpful for deploying across availability zones or even for just spinning up a disposable demo version of an app. The `.arc` format itself is extremely terse, self documenting while remaining totally vendor neutral.
+This is getting a lot of finicky configuration work done very quickly. Initial creates of an entire stack can take a few minutes but subsequent deployments are in seconds with zero downtime. Isolation of the runtime infrastructure between `staging` and `production` makes deployment trivially automatable and worry free. Everything can be run offline for authortime speed. The architecture is safely revisioned in `.arc` and easily reproduced which can be helpful for deploying across availability zones or even for just spinning up a disposable demo version of an app. The `.arc` format itself is extremely terse, self documenting while remaining totally vendor neutral.
 
 ## Current Governance and Contribution Policy
 
