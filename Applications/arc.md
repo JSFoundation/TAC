@@ -126,14 +126,14 @@ likes
 
 It gets better. `arc-create` would also ensure the corosponding lambdas are created, endpoints wired, permissions set and immediately ready for deployment to two identical environments for `staging` and `production`. You can delete the infrastructure anytime and re-run `arc-create` to regenerate it from your local source. The `.arc` above would generate the following infra:
 
-### API Gateway APIs
+##### API Gateway APIs
 
 - `hello-world-staging`
 - `hello-world-production`
 
 `@html` lambda route handlers work very similarily to Express. Responses can be one of 200, 302, 404 or 500 status codes. Sessions are supported by default. `@json` works the same (except `content-type` is `application/json` instead of `html/text`).
 
-### API Gateway Invoked Lambdas
+##### API Gateway Invoked Lambdas
 
 - `hello-world-staging-get-index`
 - `hello-world-staging-get-hello`
@@ -152,12 +152,12 @@ It gets better. `arc-create` would also ensure the corosponding lambdas are crea
 - `hello-world-production-post-api-likes-000likeID`
 - `hello-world-production-post-api-likes-000likeID-delete`
  
-### SNS Event Triggered Lambdas
+##### SNS Event Triggered Lambdas
 
 - `hello-world-staging-hit-counter`
 - `hello-world-production-hit-counter`
 
-### DynamoDB Tables 
+##### DynamoDB Tables 
 
 > Additionally `.arc` supports DynamoDB table indexes and lambdas triggered by insert, update and delete events.
 
@@ -166,7 +166,7 @@ It gets better. `arc-create` would also ensure the corosponding lambdas are crea
 
 ---
 
-This is getting a lot of finicky configuration work done very quickly. Isolation of the deployment infrastructure makes deployment trivially automatable and worry free. The architecture is safely revisined in `.arc` and easily reproduced (which can be helpful across availability zones or even for just spinning up a disposable demo version of an app).
+This is getting a lot of finicky configuration work done very quickly. Isolation of the runtime infrastructure between `staging` and `production` makes deployment trivially automatable and worry free. The architecture is safely revisioned in `.arc` and easily reproduced (which can be helpful across availability zones or even for just spinning up a disposable demo version of an app).
 
 ## Current Governance and Contribution Policy
 
@@ -179,13 +179,13 @@ Commit rights are currently granted to anyone:
 3. Demonstrates alignment with the project values
 4. Agrees to the Code of Conduct and Contribution Guidelines
  
-##Current Tooling and Infra
+## Current Tooling and Infra
 
 - Github
 - Codeship
 - npm 
  
-## Project Collaborators and Maintainers
+## Initial Project Collaborators and Maintainers
 
 - Angelina Fabbro
 - Brian LeRoux
