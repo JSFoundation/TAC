@@ -176,6 +176,7 @@ Foundation TAC was inspired by the
 [Mocha]: http://mochajs.org
 [Moment]: http://momentjs.com
 [Node-RED]: http://nodered.org
+[sonar]: https://sonarwhal.com
 [webpack]: http://webpack.js.org
 [Working Groups]: WORKING_GROUPS.md
 [General Org Structure Overview]: General-Org-Structure-Overview.pdf
