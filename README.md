@@ -82,7 +82,7 @@ in the [TAC Charter][].
     * [Sizzle][]
   * Mentorship Program Projects and Mentors
     * [Appium][]
-      * Brian LeRoux
+      * TBD
     * [Interledger.js][]
       * Mike Sherov
     * [JerryScript][]
@@ -93,6 +93,8 @@ in the [TAC Charter][].
       * Anne-Gaelle Colom
     * [Node-RED][]
       * Myles Borins
+    * [sonar][]
+      * Kris Borchers
     * [webpack][]
       * Dave Methvin
 
