@@ -82,7 +82,9 @@ in the [TAC Charter][].
     * [Sizzle][]
   * Mentorship Program Projects and Mentors
     * [Appium][]
-      * TBD
+      * Kris Borchers
+    * [architect][]
+      * Kris Borchers
     * [Interledger.js][]
       * Mike Sherov
     * [JerryScript][]
