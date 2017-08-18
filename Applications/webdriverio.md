@@ -31,14 +31,14 @@ No special process. People propose changes in form of pull requests on GitHub an
 
 # List of current tools in use by the project (forums, issue trackers, GitHub orgs, etc).
 
-Website: [http://webdriver.io/](http://webdriver.io/)
-GitHub Organisation: [https://github.com/webdriverio](https://github.com/webdriverio)
-Issue Tracker: [https://github.com/webdriverio/webdriverio/issues](https://github.com/webdriverio/webdriverio/issues)
-Twitter: [https://twitter.com/webdriverio](https://twitter.com/webdriverio)
-Gitter Channel: [https://gitter.im/webdriverio/webdriverio](https://gitter.im/webdriverio/webdriverio)
-VersionEye: [https://www.versioneye.com/](https://www.versioneye.com/)
-Travis CI: [https://travis-ci.org/webdriverio/webdriverio](https://travis-ci.org/webdriverio/webdriverio)
-Greenkeeper: [https://greenkeeper.io/](https://greenkeeper.io/)
+Website: [http://webdriver.io/](http://webdriver.io/)<br>
+GitHub Organisation: [https://github.com/webdriverio](https://github.com/webdriverio)<br>
+Issue Tracker: [https://github.com/webdriverio/webdriverio/issues](https://github.com/webdriverio/webdriverio/issues)<br>
+Twitter: [https://twitter.com/webdriverio](https://twitter.com/webdriverio)<br>
+Gitter Channel: [https://gitter.im/webdriverio/webdriverio](https://gitter.im/webdriverio/webdriverio)<br>
+VersionEye: [https://www.versioneye.com/](https://www.versioneye.com/)<br>
+Travis CI: [https://travis-ci.org/webdriverio/webdriverio](https://travis-ci.org/webdriverio/webdriverio)<br>
+Greenkeeper: [https://greenkeeper.io/](https://greenkeeper.io/)<br>
 Code Climate: [https://codeclimate.com/github/webdriverio/webdriverio](https://codeclimate.com/github/webdriverio/webdriverio)
 
 # Existing IP Policy and relevant intellectual property (trademarks, domain names, etc).
