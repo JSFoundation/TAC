@@ -183,4 +183,5 @@ Foundation TAC was inspired by the
 [Working Groups]: WORKING_GROUPS.md
 [General Org Structure Overview]: General-Org-Structure-Overview.pdf
 [Node.js Foundation TSC repository]: https://github.org/nodejs/TSC/
+[architect]: https://arc.codes
 
