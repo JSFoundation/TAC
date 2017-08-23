@@ -62,7 +62,26 @@ in the [TAC Charter][].
 
 ### Projects
 * JS Foundation Projects
-  * At-large Projects (listed alphabetically)
+  * **Graduate Projects**
+    * [Appium][]
+  * Mentorship Program Projects and Mentors
+    * [architect][]
+      * Kris Borchers
+    * [Interledger.js][]
+      * Mike Sherov
+    * [JerryScript][]
+      * Dave Methvin
+    * [Mocha][]
+      * Adam Ulvi
+    * [Moment][]
+      * Anne-Gaelle Colom
+    * [Node-RED][]
+      * Myles Borins
+    * [sonar][]
+      * Dave Methvin
+    * [webpack][]
+      * Dave Methvin
+  * At-large Projects
     * [Chassis][]
     * [Dojo][]
     * [ESLint][]
@@ -80,25 +99,6 @@ in the [TAC Charter][].
     * [QUnit][]
     * [RequireJS][]
     * [Sizzle][]
-  * Mentorship Program Projects and Mentors
-    * [Appium][]
-      * Kris Borchers
-    * [architect][]
-      * Kris Borchers
-    * [Interledger.js][]
-      * Mike Sherov
-    * [JerryScript][]
-      * Dave Methvin
-    * [Mocha][]
-      * Adam Ulvi
-    * [Moment][]
-      * Anne-Gaelle Colom
-    * [Node-RED][]
-      * Myles Borins
-    * [sonar][]
-      * Dave Methvin
-    * [webpack][]
-      * Dave Methvin
 
 ### At-large Projects
 At-large projects in the JS Foundation are a group of projects that have not
