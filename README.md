@@ -96,7 +96,7 @@ in the [TAC Charter][].
     * [Node-RED][]
       * Myles Borins
     * [sonar][]
-      * Kris Borchers
+      * Dave Methvin
     * [webpack][]
       * Dave Methvin
 
