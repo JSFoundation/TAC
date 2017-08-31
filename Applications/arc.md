@@ -81,11 +81,11 @@ The developer community understands _open_ means *open governance*, and not just
  
 - `.arc` - text format specification 
 - `arc-parser` - parses `.arc` text format into a javascript object
-- `arc-create` - generates local code and related infrastructure if it does not yet exist
-- `arc-prototype` - accepts vanilla javascript function(s) and returns it wrapped with an aws lambda function signature [Plan to rename! This was the original repo.]
-- `arc-offline` - runs infrastructure offline (specifically: lambdas handlers for json/html http endpoints and in memory db tables/indexes for running tests …very fast)
-- `arc-deploy` - deploys one or all functions in `./src` in parallel; a typical deployment of a dozen endpoints takes about 10 seconds, with zero downtime
-- `arc-www` - docs website (built with `.arc` of course)
+- `arc-workflows` - npm script based workflows that act on a `.arc` file
+- `arc-functions` - shims for the different types of Lambda functions supported: events, html, json, scheduled and tables
+- `arc-data` - generates a DynamoDB data access layer from an `.arc` file
+- `arc-docs` - docs in markdown 
+- `arc.codes` - https://arc.codes (writ as an `.arc` app of course)
 
 Possibly noticable in its absence is tooling for taking down generated deployment infrastructure. Nothing is ever destroyed programmically and things are only ever created by `arc-create` if they do not yet exist. Maybe in the future we will add destructive actions to make one off testing easier but so far a manually handling destructive actions has worked well enough for us. The  workflow ends up being incremental. You make small edits to `.arc` and `npm run create` to generate local code and remote infra as you go. 
 
