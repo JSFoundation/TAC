@@ -64,6 +64,7 @@ in the [TAC Charter][].
 * JS Foundation Projects
   * **Graduate Projects**
     * [Appium][]
+    * [ESLint][]
   * Mentorship Program Projects and Mentors
     * [architect][]
       * Kris Borchers
@@ -84,7 +85,6 @@ in the [TAC Charter][].
   * At-large Projects
     * [Chassis][]
     * [Dojo][]
-    * [ESLint][]
     * [Esprima][]
     * [Globalize][]
     * [Grunt][]
