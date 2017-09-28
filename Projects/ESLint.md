@@ -4,7 +4,7 @@ ESLint is a JavaScript linting tool that audits code and reports problems that i
  
 # Project history
 
-Nicholas Zakas started the ESLint project in 2015 in order to establish an extensible code auditing framework that used currently-available JavaScript parsers and provided an opportunity for users to create plugins representing personal or team preferences.
+Nicholas Zakas started the ESLint project in 2013 in order to establish an extensible code auditing framework that used currently-available JavaScript parsers and provided an opportunity for users to create plugins representing personal or team preferences.
 
 In April 2016, the JSCS team joined ESLint in a bid to consolidate auditing for both code bugs and code style into a single tool.
 
