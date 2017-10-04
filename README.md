@@ -67,6 +67,8 @@ in the [TAC Charter][].
   * Mentorship Program Projects and Mentors
     * [architect][]
       * Kris Borchers
+    * [HospitalRun][]
+      * Kris Borchers
     * [Interledger.js][]
       * Mike Sherov
     * [JerryScript][]
@@ -79,6 +81,8 @@ in the [TAC Charter][].
       * Myles Borins
     * [sonar][]
       * Dave Methvin
+    * [WebdriverIO][]
+      * Jonathan Lipps
     * [webpack][]
       * Dave Methvin
   * At-large Projects
@@ -184,4 +188,5 @@ Foundation TAC was inspired by the
 [General Org Structure Overview]: General-Org-Structure-Overview.pdf
 [Node.js Foundation TSC repository]: https://github.org/nodejs/TSC/
 [architect]: https://arc.codes
-
+[HospitalRun]: http://hospitalrun.io
+[WebdriverIO]: http://webdriver.io
