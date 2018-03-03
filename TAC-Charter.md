@@ -243,7 +243,7 @@ in an official decision making role as defined in the Project's governance
 policies.
 
 [Foundation mission and vision statements]: https://js.foundation/about/
-[Foundation bylaws]: https://js.foundation/pdf/bylaws.pdf
+[Foundation bylaws]: https://js.foundation/wp-content/uploads/sites/33/2017/03/JS-Foundation-Bylaws.pdf
 [Voting]: #section-9.-voting
 [Elections]: #section-10.-elections
 [Establishment of the TAC]: #section-4.-establishment-of-the-tac
