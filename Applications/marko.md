@@ -119,24 +119,17 @@ Please see: [Marko: Contribution tips and guidelines](https://github.com/marko-j
 
 ## Initial Project Collaborators and Maintainers
 
-- Patrick Steele-Idem (Twitter: [@psteeleidem](https://twitter.com/psteeleidem))
-- Michael Rawlings (Twitter: [@mlrawlings](https://twitter.com/mlrawlings))
-- Austin Kelleher (Twitter: [@austinkelleher](https://twitter.com/austinkelleher))
-- Dylan Piercey (Twitter [@dylan_piercey](https://twitter.com/dylan_piercey))
-- Phillip Gates-Idem (Twitter: [@philidem](https://twitter.com/philidem))
-- Martin Aberer (Twitter: [@metacoffee](https://twitter.com/metacoffee))
+- [Patrick Steele-Idem](https://github.com/patrick-steele-idem) (Twitter: [@psteeleidem](https://twitter.com/psteeleidem))
+- [Michael Rawlings](https://github.com/mlrawlings) (Twitter: [@mlrawlings](https://twitter.com/mlrawlings))
+- [Austin Kelleher](https://github.com/austinkelleher) (Twitter: [@austinkelleher](https://twitter.com/austinkelleher))
+- [Dylan Piercey](https://github.com/DylanPiercey) (Twitter [@dylan_piercey](https://twitter.com/dylan_piercey))
+- [Phillip Gates-Idem](https://github.com/philidem) (Twitter: [@philidem](https://twitter.com/philidem))
+- [Martin Aberer](https://github.com/tindli) (Twitter: [@metacoffee](https://twitter.com/metacoffee))
+- [Jason MacDonald](https://github.com/jasonmacdonald)
 
 ## CLA
 
-Implicit CLA from our contributing guide:
-
-> _Disclaimer: Contributions via GitHub pull requests are gladly accepted from
-their original author. Along with any pull requests, please state that the
-contribution is your original work and that you license the work to the project
-under the project's open source license. Whether or not you state this explicitly,
-by submitting any copyrighted material via pull request, email, or other means
-you agree to license the material under the project's open source license and
-warrant that you have the legal authority to do so._
+This project plans to use the [JSF CLA](https://cla.js.foundation/).
 
 ## License
 
@@ -144,4 +137,4 @@ MIT License
 
 ## Code of Conduct
 
-This project adheres to the [eBay Code of Conduct](http://ebay.github.io/codeofconduct).
+This project plans to adhere to the [JSF Code of Conduct](https://js.foundation/community/code-of-conduct). Currently using [eBay Code of Conduct](http://ebay.github.io/codeofconduct).
