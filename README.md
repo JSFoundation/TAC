@@ -162,7 +162,7 @@ Foundation TAC was inspired by the
 [Dojo]: https://dojotoolkit.org
 [Sizzle]: https://sizzlejs.com
 [Globalize]: https://globalizejs.com
-[Jed]: https://slexaxton.github.io/Jed/
+[Jed]: https://messageformat.github.io/Jed/
 [MessageFormat]: https://messageformat.github.io/
 [PEP]: https://github.com/jquery/PEP
 [Intern]: https://theintern.github.io/intern/
