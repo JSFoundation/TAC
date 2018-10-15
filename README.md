@@ -159,7 +159,7 @@ Foundation TAC was inspired by the
 [TAC Charter]: https://github.com/JSFoundation/TAC/blob/master/TAC-Charter.md
 [Project Lifecycle.md]: Project-Lifecycle.md
 [jQuery]: https://jquery.com
-[Dojo]: https://dojotoolkit.org
+[Dojo]: https://dojo.io
 [Sizzle]: https://sizzlejs.com
 [Globalize]: https://globalizejs.com
 [Jed]: https://messageformat.github.io/Jed/
