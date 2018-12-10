@@ -1,3 +1,5 @@
+*Note: webhint originally applied to and joined the JS Foundation as Sonar/Sonarwhal. This application has been updated to reflect the name change, which occurred in late summer 2018.*
+
 # Introduction and Project description.
 
 Being a good web developer nowadays can be really challenging. 
