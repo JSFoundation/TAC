@@ -75,7 +75,7 @@ in the [TAC Charter][].
     * [JerryScript][]
       * Dave Methvin
     * [Mocha][]
-      * Adam Ulvi
+      * (vacant)
     * [Moment][]
       * Anne-Gaelle Colom
     * [Node-RED][]
