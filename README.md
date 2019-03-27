@@ -74,6 +74,8 @@ in the [TAC Charter][].
       * Mike Sherov
     * [JerryScript][]
       * Dave Methvin
+    * [Marko][]
+      * Jory Burson
     * [Mocha][]
       * (vacant)
     * [Moment][]
@@ -179,6 +181,7 @@ Foundation TAC was inspired by the
 [Appium]: http://appium.io
 [Interledger.js]: http://interledgerjs.org
 [JerryScript]: http://jerryscript.net
+[Marko]: https://markojs.com/
 [Mocha]: http://mochajs.org
 [Moment]: http://momentjs.com
 [Node-RED]: http://nodered.org
